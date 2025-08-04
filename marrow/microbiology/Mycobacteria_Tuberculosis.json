@@ -10,7 +10,7 @@
     },
     "correct_answer": "a",
     "explanation": "168 \nSold by @itachibot The image shows pink non-branching acid-fast bacilli on a blue background. These findings are \nconsistent with the staining characteristics of mycobacteria. The stain used is the Ziehl-Neelsen \nstain. Other options: Option B: The image below shows Nocardia stained using an acid-fast staining technique. \nNocardia is partially acid-fast and appears as branching filaments. Option C: The image given below is of a gram-stained specimen of Actinomyces israelii. A. israelii \nis non acid-fast Option D: The images below show the staining characteristics of Corynebacterium diphtheriae. It \nis stained with Albert's stain which shows the needle appearance. 169 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Mycobacteria_Tuberculosis_Q1_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Mycobacteria_Tuberculosis_Q1_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Mycobacteria Tuberculosis"
   },
@@ -175,7 +175,7 @@
     },
     "correct_answer": "d",
     "explanation": "The scar shown in the image results from the BCG (Bacillus Calmette-Guérin) vaccine. The WHO \nrecommends Danish 1331 strain for BCG vaccine production. Normal saline is recommended as the diluent for the BCG vaccine as distilled water is an irritant. The dose administered is 0.1ml containing 0.1mg. It is administered intradermally by using 26 gauge tuberculin syringe on the left deltoid.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Mycobacteria_Tuberculosis_Q12_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Mycobacteria_Tuberculosis_Q12_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Mycobacteria Tuberculosis"
   },
@@ -190,7 +190,7 @@
     },
     "correct_answer": "c",
     "explanation": "QuantiFERON-TB gold is not a type of tuberculin skin test. It is a type of interferon-gamma \nrelease assays (IGRAs), a whole-blood test that can aid in diagnosing Mycobacterium tuberculosis \ninfection. There are 3 described methods for tuberculin skin testing (TST): • Mantoux test, also known as the Pirquet test (preferred method) • Heaf test • Tine test In contrast, IGRAs that have been approved by the FDA are: • QuantiFERON-TB Gold In-Tube test (QFT-GIT) • T-SPOT.TB test (T-Spot) • QuantiFERON-TB Gold Plus (QFT- Plus) IGRA is not used in India due to a higher probability of a false positive due to universal BCG \nvaccination. It can also lead to a diagnosis of active TB in a patient with latent TB and may lead to \novertreatment. This test is banned in India after the WHO advised against it in low and \nmiddle-income countries. 177 \nSold by @itachibot Other Mycobacteria",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Mycobacteria_Tuberculosis_Q13_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Mycobacteria_Tuberculosis_Q13_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Mycobacteria Tuberculosis"
   }
