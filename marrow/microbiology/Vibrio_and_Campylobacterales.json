@@ -10,7 +10,7 @@
     },
     "correct_answer": "c",
     "explanation": "The given clinical vignette is suggestive of cholera caused by Vibrio cholerae. The image \nshows the characteristic fish in stream appearance of Vibrio. Other options: Options A and B: School of fish appearance and railroad appearance are shown by Haemophilus \nducreyi. Option D: Drumstick appearance is shown by Clostridium tetani due to its spherical and terminal \nspores.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Vibrio_and_Campylobacterales_Q1_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Vibrio_and_Campylobacterales_Q1_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Vibrio and Campylobacterales"
   },
@@ -25,7 +25,7 @@
     },
     "correct_answer": "c",
     "explanation": "The given microscopic finding shows the darting motility characteristic of Vibrio cholerae. Vibrio cholerae is actively motile with a polar flagellum. The actively motile vibrios appear like a \n'swarm of gnats'.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Vibrio_and_Campylobacterales_Q2_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Vibrio_and_Campylobacterales_Q2_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Vibrio and Campylobacterales"
   },
@@ -85,7 +85,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given case scenario of passing profuse rice-water stools with similar complaints in the family \nsuggests a probable diagnosis of cholera. The test shown in the above image is the string test and \nit is performed to identify Vibrio cholerae. To perform the string test, a loopful of the bacterial culture is mixed with a drop of 0.5% sodium \ndeoxycholate in saline on a slide. The bacterial cells of Vibrio cholerae are lysed by sodium \ndeoxycholate, causing the suspension to lose its turbidity and become mucoid. A string is formed \nwhen the loop is drawn away from the suspension. Note: The duodenal string test refers to the Entero test performed for the diagnosis of giardiasis.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Vibrio_and_Campylobacterales_Q6_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Vibrio_and_Campylobacterales_Q6_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Vibrio and Campylobacterales"
   },
@@ -130,7 +130,7 @@
     },
     "correct_answer": "c",
     "explanation": "The given clinical scenario of dehydration, profuse diarrhea, and rice water stools is suggestive of \ncholera. Cholera toxin causes continued activation of adenylate cyclase. Mechanism of action of cholera toxin: • The cholera toxin molecule consists of 1 A and 5 B subunits. The B (binding) units attach to the \nGM1 ganglioside receptors on the surface of jejunal epithelial cells. The A (active) subunit, \non being transported into the enterocyte, dissociates into A1 and A2. A2 fragment only links \nbiologically active A1 to the B subunit. 231 \nSold by @itachibot • A1 causes prolonged activation of cellular adenylate cyclase and accumulation of cAMP, leading \nto outpouring into the small intestinal lumen, of large quantities of water and electrolytes and the \nconsequent watery diarrhea, that is isotonic with plasma but contains much more of potassium \nand bicarbonate. • The toxin also inhibits the intestinal absorption of sodium and chloride. • All clinical manifestations and complications in cholera result from the massive water and \nelectrolyte depletion thus caused.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Vibrio_and_Campylobacterales_Q9_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Vibrio_and_Campylobacterales_Q9_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Vibrio and Campylobacterales"
   },
@@ -205,7 +205,7 @@
     },
     "correct_answer": "a",
     "explanation": "The given case scenario of an organism that caused food poisoning due to contaminated seafood \nin addition to the cultural characteristics is suggestive of food contamination by Vibrio \nparahaemolyticus. It is a capsulated organism. V. parahaemolyticus is an enteropathogenic halophilic vibrio that is an important cause of food \npoisoning throughout the world. It inhabits the coastal seas, where it is found in shrimps, crabs, \nand oysters. It forms opaque green colonies with a raised centre and flat translucent periphery on TCBS agar \nunlike V. cholera which forms yellow colonies. Pathogenic strains show hemolysis on Wagatsuma \nagar which is known as Kanagawa phenomenon. This can be used as a test for pathogenecity. Other options: Option B: It shows bipolar staining and has a tendency for pleomorphism, especially when grown \non 3% salt agar. Option C: Unlike other vibrios, it produces peritrichous flagella when grown on solid media. Polar \nflagella are formed in liquid cultures. Option D: String test is positive like with V. cholera. 233 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Vibrio_and_Campylobacterales_Q14_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Vibrio_and_Campylobacterales_Q14_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Vibrio and Campylobacterales"
   },
@@ -265,7 +265,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given clip shows darting motility which is seen in Vibrio cholerae and Campylobacter jejuni. \nThus, among the given options, infection with C. jejuni should be considered as a differential \ndiagnosis in this case. Campylobacter jejuni possesses a single polar flagellum, hence it exhibits darting motility. Shigella dysenteriae is a non-motile organism.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Vibrio_and_Campylobacterales_Q18_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Vibrio_and_Campylobacterales_Q18_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Vibrio and Campylobacterales"
   },
@@ -310,7 +310,7 @@
     },
     "correct_answer": "d",
     "explanation": "The given image shows Helicobacter pylori stained using Warthin-Starry stain. H.pylori is a Gram-negative spiral rod that is motile by a unipolar tuft of \nlophotrichous flagella. The bacteria are present only in the mucus overlying the gastric \nmucosa and do not actually invade into the mucosa. The given image shows Helicobacter pylori on gastric mucosa stained with Warthin-Starry silver \nstain.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Vibrio_and_Campylobacterales_Q21_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Vibrio_and_Campylobacterales_Q21_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Vibrio and Campylobacterales"
   },
@@ -340,7 +340,7 @@
     },
     "correct_answer": "c",
     "explanation": "The given case scenario is suggestive of a duodenal ulcer caused by Helicobacter pylori. The urea \nbreath test is the most sensitive test for the diagnosis of Helicobacter pylori infection. To perform this test, the patient drinks a urea solution labelled with radioactive carbon-14. The \npatient then blows into a tube. If H. pylori urease is present, the urea is hydrolyzed, and labelled \ncarbon dioxide is detected in breath samples. The sensitivity of the urea breath test is &gt;90%. 237 \nSold by @itachibot Pseudomonas and Burkholderiales",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Vibrio_and_Campylobacterales_Q23_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Vibrio_and_Campylobacterales_Q23_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Vibrio and Campylobacterales"
   }
