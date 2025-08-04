@@ -70,7 +70,7 @@
     },
     "correct_answer": "c",
     "explanation": "The given image and clinical history suggest a typhoid infection. The structure marked A is the \nflagella of bacteria. Toll-like receptor (TLR) 5 binds to the flagella of bacteria. Toll-like receptors (TLRs) are transmembrane receptors that have an extracellular domain, that \ndetect infecting pathogens. • TLR 1 - Mycobacteria and Gram-negative bacteria • TLR 2 - Mycobacteria and Gram-positive bacteria • TLR 3 - Viral RNA • TLR 4 - Gram-negative bacteria • TLR 5 - Flagella • TLR 9 - Bacterial DNA, some herpes viruses, malarial parasite TLRs act through the NF-KB pathway and initiate inflammation.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Components_of_Immune_system_Q5_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Components_of_Immune_system_Q5_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Components of Immune system"
   },
@@ -100,7 +100,7 @@
     },
     "correct_answer": "c",
     "explanation": "This woman presented with fever, hypotension, and a diffuse erythematous rash, three days after \na nasal packing was done. This is characteristic of toxic shock syndrome - commonly caused by \nstaphylococcal toxic shock syndrome toxin-1 (TSST-1), which is a superantigen. Superantigens act by causing polyclonal activation of T cells. They activate a large number of T \ncells irrespective of their antigen specificity. In contrast to regular antigens which bind to the binding groove on T cells, superantigens bind \noutside the groove directly to the lateral aspect of the TCR  chain. This leads to a massive release \nof cytokines and polyclonal activation of T cells. Clinically, this manifests as fever, hypotension, and skin exfoliation. Examples of organisms that produce superantigens: • Bacterial 43 \nSold by @itachibot • Staphylococcus aureus- Enterotoxins • Group A streptococci - Pyrogenic exotoxin • Mycoplasma arthritidis- mitogen 1 • Yersinia enterocolitica • Yersinia pseudotuberculosis • Viral • Epstein–Barr virus (EBV) • Cytomegalovirus (CMV) • Rabies nucleocapsid • HIV-encoded negative regulatory factor. • Fungal- Malassezia furfur",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Components_of_Immune_system_Q7_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Components_of_Immune_system_Q7_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Components of Immune system"
   },
@@ -175,7 +175,7 @@
     },
     "correct_answer": "a",
     "explanation": "The above image shows a dimeric structure, characteristic of secretory IgA. IgA immunoglobulin is the major antibody responsible for mucosal immunity. Its serum levels are \nusually low. It is predominantly present in the extravascular secretions. It is present in secretions \nsuch as milk, saliva, and tears, and in secretions of the respiratory, intestinal, and genital tracts. When present in the serum, it exists as a monomer similar to IgG. However, when it is secreted, it \nexists as a dimer. The dimeric structure consists of two monomers, which are stabilized by two \nadditional polypeptides: • J chain, which stabilizes the molecule. • Secretory component, which is incorporated into the IgA when transported through the \nepithelial cell. 45 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Components_of_Immune_system_Q12_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Components_of_Immune_system_Q12_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Components of Immune system"
   },
@@ -190,7 +190,7 @@
     },
     "correct_answer": "c",
     "explanation": "The image shows blood typing, which works on the principle of agglutination. IgM is mainly \nresponsible for agglutination. It is the most efficient immunoglobulin in agglutination, complement fixation, and other antigen–\nantibody reactions and is important also in defense against bacteria and viruses. It is a pentamer, and hence is more effective than IgG in opsonization (C3b mediated), \nbactericidal action and bacterial agglutination but less effective in neutralization of toxins and \nviruses. Reaction \nIgG \nIgM Precipitation \nStron \ng Wea \nk Agglutination \nWeak \nStro \nng Complement fixati \non Mode \nrate Stro \nng Lysis \nWeak \nStro \nng",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Components_of_Immune_system_Q13_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Components_of_Immune_system_Q13_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Components of Immune system"
   },
@@ -280,7 +280,7 @@
     },
     "correct_answer": "d",
     "explanation": "Nagler’s reaction is an example of a neutralization test. It is done for the detection of \nlecithinase toxin produced by C. perfringens. The alpha-toxin of C. perfringens has phospholipase activity. When grown on a medium \ncontaining egg yolk phospholipid, an area of opacity around the bacterial colonies is seen (Nagler's \npositive). The presence of antitoxin can inhibit this. Other examples of neutralization tests are: • Plaque inhibition test- neutralization of bacteriophages • Schick test- neutralization of diphtheria toxin by antitoxin • Anti-streptolysin O test- for beta-hemolytic Streptococci. 51 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Components_of_Immune_system_Q19_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Components_of_Immune_system_Q19_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Components of Immune system"
   },
@@ -340,7 +340,7 @@
     },
     "correct_answer": "c",
     "explanation": "This girl presents with features of hereditary angioneurotic edema, which is due to a deficiency of \nC1 inhibitor. Hereditary angioneurotic edema is an autosomal dominant disorder that is more common than \ncomplement deficiency states. A deficiency of C1 inhibitor leads 53 \nSold by @itachibot to unregulated activation of kallikrein. This increases the production of vasoactive peptides such \nas bradykinin. It causes episodes of edema affecting the skin and mucosal surfaces such as the \nlarynx and the gastrointestinal tract. This may result in life-threatening asphyxia or nausea, \nvomiting, and diarrhea after minor trauma or emotional stress. Note - • C1, C2, C4 deficiency - collagen vascular disorders. • C5-C8 deficiency - recurrent bacteremia with Neisseria 54 \nSold by @itachibot Structure and Functions of the Immune System & Immune Response",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Components_of_Immune_system_Q23_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Components_of_Immune_system_Q23_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Components of Immune system"
   }
