@@ -1,1 +1,182 @@
-WwogIHsKICAgICJxX25vIjogMSwKICAgICJxdWVzdGlvbiI6ICJRdWVzdGlvbiAxOiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIGlzIGEgcGlnbWVudC1wcm9kdWNpbmcgc3BlY2llcyBvZiBteWNvYmFjdGVyaWE/IiwKICAgICJvcHRpb25zIjogewogICAgICAiYSI6ICJNLiB1bGNlcmFucyIsCiAgICAgICJiIjogIk0uIHNjcm9mdWxhY2V1bSIsCiAgICAgICJjIjogIk0uIGF2aXVtIGludHJhY2VsbHVsYXJlIGNvbXBsZXgiLAogICAgICAiZCI6ICJNLiB4ZW5vcGkiCiAgICB9LAogICAgImNvcnJlY3RfYW5zd2VyIjogImIiLAogICAgImV4cGxhbmF0aW9uIjogIjE4MiBcblNvbGQgYnkgQGl0YWNoaWJvdCBNeWNvYmFjdGVyaXVtIHNjcm9mdWxhY2V1bSBpcyBhIHBpZ21lbnQtcHJvZHVjaW5nIHNwZWNpZXMgb2YgbXljb2JhY3RlcmlhLiBNLiBzY3JvZnVsYWNldW0gaXMgYSBzY290b2Nocm9tb2dlbiB3aGljaCBwcm9kdWNlcyB5ZWxsb3cgb3Igb3JhbmdlIGNvbG9yZWQgcGlnbWVudHMsIGV2ZW4gaW4gXG50aGUgZGFyay4gSXQgYmVsb25ncyB0byBncm91cCBJSSBvZiBSdW55b24ncyBjbGFzc2lmaWNhdGlvbi4gSXQgY2FuIGNhdXNlIHNjcm9mdWxhIG9yIGNlcnZpY2FsIGFkZW5pdGlzIFxuaW4gY2hpbGRyZW4uIE0udWxjZXJhbnMsIE0uYXZpdW0gaW50cmFjZWxsdWxhcmUgY29tcGxleCAoTUFDKSwgYW5kIE0uIHhlbm9waSBiZWxvbmcgdG8gZ3JvdXAgSUlJLW5vbiBcbnBob3RvY2hyb21vZ2VucyBhcyB0aGV5IGRvIG5vdCBmb3JtIHBpZ21lbnQgZXZlbiBvbiBleHBvc3VyZSB0byBsaWdodC4iLAogICAgImltYWdlIjogbnVsbCwKICAgICJleHBsYW5hdGlvbl9pbWFnZSI6IG51bGwsCiAgICAiY2hhcHRlcl9oZWFkaW5nIjogIk90aGVyIE15Y29iYWN0ZXJpYSIKICB9LAogIHsKICAgICJxX25vIjogMiwKICAgICJxdWVzdGlvbiI6ICJRdWVzdGlvbiAyOiBBIG1pY3JvYmlvbG9naXN0IHdvcmtpbmcgd2l0aCBteWNvYmFjdGVyaWEgbm90ZXMgbW9pc3QsIHNtb290aCwgZmxhdCwgd2hpdGUgY29sb25pZXMgZ3Jvd2luZyBcbm9uIExvd2Vuc3RlaW4tSmVuc2VuIG1lZGlhLiBXaGljaCBzcGVjaWVzIG9mIG15Y29iYWN0ZXJpYSBpcyBzaGUgbGlrZWx5IHN0dWR5aW5nPyIsCiAgICAib3B0aW9ucyI6IHsKICAgICAgImEiOiAiTXljb2JhY3Rlcml1bSB0dWJlcmN1bG9zaXMiLAogICAgICAiYiI6ICJNeWNvYmFjdGVyaXVtIGJvdmlzIiwKICAgICAgImMiOiAiTXljb2JhY3Rlcml1bSBrYW5zYXNpaSIsCiAgICAgICJkIjogIk15Y29iYWN0ZXJpdW0gYXZpdW0taW50cmFjZWxsdWxhcmUiCiAgICB9LAogICAgImNvcnJlY3RfYW5zd2VyIjogImIiLAogICAgImV4cGxhbmF0aW9uIjogIlRoZSBzcGVjaWVzIG9mIG15Y29iYWN0ZXJpYSBiZWluZyBzdHVkaWVkIGhlcmUgaXMgTXljb2JhY3Rlcml1bSBib3Zpcy4gSXQgZm9ybXMgbW9pc3QsIHNtb290aCwgXG5mbGF0LCB3aGl0ZSBjb2xvbmllcyBvbiBMb3dlbnN0ZWluLUplbnNlbiAoTEopIG1lZGlhIHRoYXQgYnJlYWstdXAgZWFzaWx5IHdoZW4gdG91Y2hlZC4gTXljb2JhY3Rlcml1bSBib3ZpcyBiZWxvbmdzIHRvIHRoZSBNeWNvYmFjdGVyaXVtIHR1YmVyY3Vsb3NpcyBjb21wbGV4LiBJdCBjYXVzZXMgXG50dWJlcmN1bG9zaXMtbGlrZSBkaXNlYXNlIGluIGh1bWFucy4gTG93ZW5zdGVpbuKAk0plbnNlbiBtZWRpdW0gaXMgYSBjb21tb25seSB1c2VkLCBlZ2ctYmFzZWQsIHNlbGVjdGl2ZSBtZWRpYSBmb3IgbXljb2JhY3RlcmlhLiBJdCBcbmNvbnRhaW5zOiDigKIgRWdnLSBQcm92aWRlcyBmYXR0eSBhY2lkcyBhbmQgcHJvdGVpbiByZXF1aXJlZCBmb3IgbWV0YWJvbGlzbSDigKIgTWFsYWNoaXRlIGdyZWVuLSBQcmV2ZW50cyB0aGUgZ3Jvd3RoIG9mIGNvbnRhbWluYW50cy4gTWFrZXMgaXQgYSBzZWxlY3RpdmUgbWVkaXVtLiDigKIgTWluZXJhbCBzYWx0IHNvbHV0aW9uLSBCdWZmZXIg4oCiIEdseWNlcm9sLSBTb3VyY2Ugb2YgY2FyYm9uLCBmYXZvcnMgZ3Jvd3RoIG9mIE0uIHR1YmVyY3Vsb3NpcywgYnV0IG5vdCBNLiBib3Zpcy4gTEogbWVkaXVtIFxud2l0aG91dCBnbHljZXJvbCwgd2hpY2ggY29udGFpbnMgcHlydXZhdGUsIGlzIHVzZWQgZm9yIGN1bHR1cmUgb2YgTS4gYm92aXMuIOKAoiBMLWFzcGFyYWdpbmUtIE5pdHJvZ2VuIHNvdXJjZSBUaGUgaW1hZ2UgYmVsb3cgc2hvd3MgTS5ib3ZpcyBjb2xvbmllcyBvbiBMSiBtZWRpYS4gTXljb2JhY3Rlcml1bSB0dWJlcmN1bG9zaXMgY29sb25pZXMgb24gTEogbWVkaXVtIGFyZSBkcnksIHJvdWdoLCByYWlzZWQgYW5kIGlycmVndWxhciB3aXRoIGEgXG53cmlua2xlZCBzdXJmYWNlLiBUaGV5IGFyZSBjcmVhbXkgd2hpdGUgb3IgYnVmZi1jb2xvcmVkLCB0ZW5hY2lvdXMgYW5kIGRpZmZpY3VsdCB0byBcbmVtdWxzaWZ5KHJvdWdoLCB0b3VnaCwgYnVmZikuIDE4MyBcblNvbGQgYnkgQGl0YWNoaWJvdCIsCiAgICAiaW1hZ2UiOiBudWxsLAogICAgImV4cGxhbmF0aW9uX2ltYWdlIjogbnVsbCwKICAgICJjaGFwdGVyX2hlYWRpbmciOiAiT3RoZXIgTXljb2JhY3RlcmlhIgogIH0sCiAgewogICAgInFfbm8iOiAzLAogICAgInF1ZXN0aW9uIjogIlF1ZXN0aW9uIDM6IFRoZSBmb2xsb3dpbmcgZmluZGluZ3MgYXJlIG9idGFpbmVkIGR1cmluZyBiaW9jaGVtaWNhbCB0ZXN0aW5nIG9mIGEgbXljb2JhY3RlcmlhbCBzcGVjaWVzLiBcbklkZW50aWZ5IHRoZSBvcmdhbmlzbS4iLAogICAgIm9wdGlvbnMiOiB7CiAgICAgICJhIjogIk0uIGJvdmlzIiwKICAgICAgImIiOiAiTS4gdHViZXJjdWxvc2lzIiwKICAgICAgImMiOiAiTS4gc2ltaWFlIiwKICAgICAgImQiOiAiTS4ga2Fuc2FzaWkiCiAgICB9LAogICAgImNvcnJlY3RfYW5zd2VyIjogImMiLAogICAgImV4cGxhbmF0aW9uIjogIlRoZSBnaXZlbiBiaW9jaGVtaWNhbCBmaW5kaW5ncyBhcmUgY2hhcmFjdGVyaXN0aWMgb2YgTXljb2JhY3Rlcml1bSBzaW1pYWUuIEV2ZW50aG91Z2ggYXR5cGljYWwgXG5teWNvYmFjdGVyaWEgb3Igbm9uLXR1YmVyY3Vsb3VzIG15Y29iYWN0ZXJpYShOVE0pIGFyZSB1c3VhbGx5IG5pYWNpbiB0ZXN0IG5lZ2F0aXZlLCBzb21lIE5UTSBcbmxpa2UgTS4gc2ltaWFlIGFuZCBNLiBjaGVsb25hZSBnaXZlIGEgcG9zaXRpdmUgbmlhY2luIHRlc3QgcG9zaXRpdmUuIE15Y29iYWN0ZXJpYSBjYW4gYmUgaWRlbnRpZmllZCBiYXNlZCBvbiB0aGVpciBiaW9jaGVtaWNhbCByZWFjdGlvbnMgYXMgZm9sbG93czogVGhlIGZpcnN0IGZvdXIgdGVzdHMgYXJlIHVzZWQgdG8gZGlzdGluZ3Vpc2ggYmV0d2VlbiBNLiB0YiBjb21wbGV4IGFuZCBhdHlwaWNhbCBteWNvYmFjdGVyaWEgd2hpbGUgXG50aGUgbGFzdCBmb3VyIHRlc3RzIGFyZSB1c2VkIHRvIGRpc3Rpbmd1aXNoIGJldHdlZW4gTS4gdGIgYW5kIE0uIGJvdmlzLiBCaW9jaGVtaWNhbCB0ZXMgXG50IE0uIHRiIFxuTS4gYm92IFxuaXMgTlRNIENhdGFsYXNlIFxuV2VhaysgXG5XZWFrIFxuKyArKysgUGVyb3hpZGFzZSBcbisgXG4rIFxuXyBBcnlsc3VsZmF0c2UgXG4tIFxuLSBcbisgTmlhY2luIFxuKyBcbi0gXG4tICsgXG4tIFxuTi9BIE5pdHJhdGUgcmVkdWN0aW8gXG5uIFB5cmF6aW5hbWlkYXNlIFxuKyBcbi0gXG5OL0EgTi9BIFNlbnNpdGkgXG52ZSBUQ0ggc2Vuc2l0aXZpdHkgXG5SZXNpc3RhIFxubnQiLAogICAgImltYWdlIjogbnVsbCwKICAgICJleHBsYW5hdGlvbl9pbWFnZSI6IG51bGwsCiAgICAiY2hhcHRlcl9oZWFkaW5nIjogIk90aGVyIE15Y29iYWN0ZXJpYSIKICB9LAogIHsKICAgICJxX25vIjogNCwKICAgICJxdWVzdGlvbiI6ICJRdWVzdGlvbiA0OiBBIDU0LXllYXItb2xkIG1hbGUgcHJlc2VudHMgd2l0aCBhbiB1bGNlciBvbiBoaXMgaGFuZC4gT24gc3dhYiBjdWx0dXJlLCBncm93dGggb2YgTS4gXG51bGNlcmFucyBpcyBzZWVuLiBXaGF0IGlzIHRoZSBkaWFnbm9zaXM/IiwKICAgICJvcHRpb25zIjogewogICAgICAiYSI6ICJIdW5uZXLigJlzIHVsY2VyIiwKICAgICAgImIiOiAiTWVsZW5leeKAmXMgdWxjZXIiLAogICAgICAiYyI6ICJCdXJ1bGkgdWxjZXIiLAogICAgICAiZCI6ICJNYXJqb2xpbidzIHVsY2VyIgogICAgfSwKICAgICJjb3JyZWN0X2Fuc3dlciI6ICJjIiwKICAgICJleHBsYW5hdGlvbiI6ICIxODQgXG5Tb2xkIGJ5IEBpdGFjaGlib3QgTXljb2JhY3Rlcml1bSB1bGNlcmFucyBjYXVzZXMgQnVydWxpIHVsY2VyLiBNLiB1bGNlcmFucyBwcm9kdWNlcyBhIHRveGluIGNhbGxlZCBteWNvbGFjdG9uZSB3aGljaCBsZWFkcyB0byBmb3JtYXRpb24gb2YgQnVydWxpIHVsY2VyLiBUaGlzIGlzIFxuYSBjaHJvbmljLCBkZWJpbGl0YXRpbmcsIG5lY3JvdGl6aW5nIGRpc2Vhc2Ugb2YgdGhlIHNraW4gYW5kIHNvZnQgdGlzc3VlIHdoaWNoIGlzIGNoYXJhY3Rlcml6ZWQgYnkgdGhlIFxuZm9ybWF0aW9uIG9mIHVsY2VycyB0aGF0IHByb2dyZXNzaXZlbHkgZW5sYXJnZSBvdmVyIHRpbWUgaWYgbGVmdCB1bnRyZWF0ZWQuIFRoZSB1bGNlcnMgaGVhbCB3aXRoIFxuZGlzZmlndXJpbmcgc2NhcnMuIFRoZSBpbWFnZSBiZWxvdyBzaG93cyBhIEJ1cnVsaSB1bGNlci4gT3B0aW9uIEE6IEh1bm5lcidzIHVsY2VycyBhcmUgc2VlbiBpbiBhIHN1YnNldCBvZiBwYXRpZW50cyB3aXRoIGludGVyc3RpdGlhbCBjeXN0aXRpcy4gVGhlc2UgYXJlIGFyZWFzIFxub2YgaW5mbGFtbWF0aW9uIG9uIHRoZSBibGFkZGVyIHdhbGwuIFRoZSBpbWFnZSBiZWxvdyBzaG93cyBhIGN5c3Rvc2NvcGljIGltYWdlIG9mIGEgSHVubmVyJ3MgdWxjZXIuIE9wdGlvbiBCOiBNZWxlbmV5J3MgdWxjZXIgb3IgcG9zdC1vcGVyYXRpdmUgc3luZXJnaXN0aWMgYmFjdGVyaWFsIGdhbmdyZW5lIG9jY3VycyBpbiBcbmltbXVuby1jb21wcm9taXNlZCBpbmRpdmlkdWFscyBmb2xsb3dpbmcgYWJkb21pbmFsIHN1cmdlcnkuIEl0IGlzIGNhdXNlZCBieSBhIHN5bmVyZ2lzdGljIFxuaW50ZXJhY3Rpb24gYmV0d2VlbiBtaWNyb2Flcm9waGlsaWMgbm9uaGVtb2x5dGljIFN0cmVwdG9jb2NjdXMgYW5kIGhlbW9seXRpYyBhZXJvYmljIFxuU3RhcGh5bG9jb2NjdXMgYXVyZXVzLiAxODUgXG5Tb2xkIGJ5IEBpdGFjaGlib3QgT3B0aW9uIEQ6IE1hcmpvbGluIHVsY2VyIGlzIGEgcmFyZSBhbmQgYWdncmVzc2l2ZSBmb3JtIG9mIHNxdWFtb3VzIGNlbGwgY2FyY2lub21hIHRoYXQgZ3Jvd3MgXG5mcm9tIGJ1cm5zLCBzY2Fycywgb3IgcG9vcmx5IGhlYWxpbmcgd291bmRzLiBUaGUgaW1hZ2UgYmVsb3cgc2hvd3MgYSBNYXJqb2xpbidzIHVsY2VyIGluIGEgYnVybiBzY2FyLiIsCiAgICAiaW1hZ2UiOiBudWxsLAogICAgImV4cGxhbmF0aW9uX2ltYWdlIjogbnVsbCwKICAgICJjaGFwdGVyX2hlYWRpbmciOiAiT3RoZXIgTXljb2JhY3RlcmlhIgogIH0sCiAgewogICAgInFfbm8iOiA1LAogICAgInF1ZXN0aW9uIjogIlF1ZXN0aW9uIDU6IEEgNDIteWVhci1vbGQgbWFuIHdobyB3b3JrcyBhdCBhbiBhcXVhcml1bSBhbmQgaGFuZGxlcyB0aGUgZmlzaCB3aXRob3V0IHByb3RlY3RpdmUgXG5lcXVpcG1lbnQgcHJlc2VudHMgdG8gdGhlIE9QRCB3aXRoIHRoZSBmb2xsb3dpbmcgZmluZGluZy4gSW5mZWN0aW9uIHdpdGggd2hpY2ggb2YgdGhlIFxuZm9sbG93aW5nIGJhY3RlcmlhIGxlZCB0byBoaXMgY29uZGl0aW9uPyIsCiAgICAib3B0aW9ucyI6IHsKICAgICAgImEiOiAiTS4ga2Fuc2FzaSIsCiAgICAgICJiIjogIk0uIG1hcmludW0iLAogICAgICAiYyI6ICJNLiBwYXJhdHViZXJjdWxvc2lzIiwKICAgICAgImQiOiAiTS4gZ29yZG9uYWUiCiAgICB9LAogICAgImNvcnJlY3RfYW5zd2VyIjogImIiLAogICAgImV4cGxhbmF0aW9uIjogIlRoZSBpbWFnZSBzaG93cyBhIGZpc2ggdGFuayBncmFudWxvbWEgdGhhdCBpcyBjYXVzZWQgYnkgTS4gbWFyaW51bS4gVGhlIHR5cGljYWwgY2xpbmljYWwgcHJlc2VudGF0aW9uIGlzIGFzIGEgc2luZ2xlLCBzbWFsbCB2aW9sZXQgcGFwdWxlIG9yIG5vZHVsZSBjb25maW5lZCB0byBvbmUgXG5leHRyZW1pdHksIGRldmVsb3BpbmcgMi0zIHdlZWtzIGFmdGVyIHRyYXVtYS4gVGhlIG5vZHVsZSBtYXkgYnJlYWsgZG93biB0byBmb3JtIGFuIGluZG9sZW50IFxudWxjZXIuIE0uIG1hcmluYXJ1bSBpcyBhIG5hdHVyYWwgcGF0aG9nZW4gb2YgZmlzaCBhbmQgYW1waGliaWFucywgd2hpY2ggc3ByZWFkcyB0byBodW1hbnMgd2hvIFxuY29tZSBpbiBjb250YWN0IHdpdGggY29udGFtaW5hdGVkIHN3aW1taW5nIHBvb2xzIG9yIGZpc2ggdGFua3MuIE90aGVyIG5vbi10dWJlcmN1bG91cyBteWNvYmFjdGVyaWEgY2F1c2luZyBkaXNlYXNlIGluIGh1bWFucyBpbmNsdWRlOiDigKIgTS4ga2Fuc2FzaWk6IERpc2Vhc2UgcmVzZW1ibGVzIHB1bG1vbmFyeSBUQiDigKIgTS4gc2Nyb2Z1bGFjZXVtOiBDZXJ2aWNhbCBseW1waGFkZW5pdGlzIOKAoiBNLiBhdml1bSBjb21wbGV4OiBQdWxtb25hcnksIGRpc3NlbWluYXRlZCBUQiwgZXNwZWNpYWxseSBpbiBBSURTIHBhdGllbnRzIOKAoiBNLiBmb3J0dWl0dW06IE5haWwgc2Fsb24gZnVydW5jdWxvc2lzIE0uIHBhcmF0dWJlcmN1bG9zaXMgKGFrYSBKb2huZeKAmXMgYmFjaWxsdXMpIGNhdXNlcyBKb2huZeKAmXMgZGlzZWFzZSBpbiBjYXR0bGUuIEl0IGlzIGFzc29jaWF0ZWQgd2l0aCBcbkNyb2hu4oCZcyBkaXNlYXNlIGluIGh1bWFucy4iLAogICAgImltYWdlIjogImh0dHBzOi8vZ2l0aHViLmNvbS90azIya2FsYWwvbWNxaW1hZ2UvYmxvYi9tYWluL214bWljcm9iaW9sb2d5L090aGVyX015Y29iYWN0ZXJpYV9RNV9xLmpwZyIsCiAgICAiZXhwbGFuYXRpb25faW1hZ2UiOiBudWxsLAogICAgImNoYXB0ZXJfaGVhZGluZyI6ICJPdGhlciBNeWNvYmFjdGVyaWEiCiAgfSwKICB7CiAgICAicV9ubyI6IDYsCiAgICAicXVlc3Rpb24iOiAiUXVlc3Rpb24gNjogV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGlzIHRydWUgYWJvdXQgdGhlIG1pY3JvYmlvbG9naWNhbCBkaWFnbm9zaXMgb2YgdGhlIGRpc2Vhc2UgXG5hZmZsaWN0aW5nIHRoZSBwYXRpZW50IHNob3duIGJlbG93PyAxNzkgXG5Tb2xkIGJ5IEBpdGFjaGlib3QiLAogICAgIm9wdGlvbnMiOiB7CiAgICAgICJhIjogIkFjaWQgZmFzdCBzdGFpbmluZyBpcyBkb25lIGJ5IFppZWhsLU5lZWxzZW4gdGVjaG5pcXVlLCB1c2luZyAyNSUgc3VscGh1cmljIGFjaWQiLAogICAgICAiYiI6ICJTYW1wbGUgc2hvdWxkIGJlIGNvbGxlY3RlZCBmcm9tIHRoZSBjZW50cmUgb2YgdGhlIGxlc2lvbiIsCiAgICAgICJjIjogIlRoZSBudW1iZXIgb2Ygc2FtcGxlcyB0byBiZSBjb2xsZWN0ZWQgaXMgMy00IiwKICAgICAgImQiOiAiSXQgaXMgY3VsdGl2YXRlZCBpbiBuaW5lIGJhbmRlZCBhcm1hZGlsbG9zIGFuZCBmb290IHBhZHMgb2YgbWljZSIKICAgIH0sCiAgICAiY29ycmVjdF9hbnN3ZXIiOiAiZCIsCiAgICAiZXhwbGFuYXRpb24iOiAiVGhlIGltYWdlIGRlcGljdHMgbGVvbmluZSBmYWNpZXMgaW4gYSBwYXRpZW50IHN1ZmZlcmluZyBmcm9tIGxlcHJvc3kgb3IgSGFuc2VuJ3MgZGlzZWFzZSBjYXVzZWQgYnkgXG5NeWNvYmFjdGVyaXVtIGxlcHJhZS4gSXQgaXMgY3VsdGl2YXRlZCBpbiBuaW5lLWJhbmRlZCBhcm1hZGlsbG9zIGFuZCBmb290cGFkcyBvZiBtaWNlLiAxODYgXG5Tb2xkIGJ5IEBpdGFjaGlib3QgTS4gbGVwcmFlIGlzIGEgR3JhbS1wb3NpdGl2ZSwgd2Vha2x5IGFjaWQgZmFzdCBiYWNpbGx1cy4gVGh1cywgNSUgc3VscGh1cmljIGFjaWQgKG9wdGlvbiBBKSBpcyB1c2VkIFxuZm9yIGRlY29sb3VyaXNhdGlvbiB0byBkZW1vbnN0cmF0ZSBNLmxlcHJhZSdzIGFjaWQtZmFzdG5lc3MuIE9uIG1pY3Jvc2NvcHksIHRoZSBiYWNpbGxpIGFwcGVhciBcbmJvdW5kIHRvZ2V0aGVyIGluIG1hc3NlcyBjYWxsZWQgZ2xvYmksIHdpdGhpbiB3aGljaCB0aGV5IGFyZSBhcnJhbmdlZCBpbiBhICdjaWdhciBidW5kbGUnIFxuYXBwZWFyYW5jZS4gRm9yIGxlcHJvc3kgZGlhZ25vc2lzLCBzcGVjaW1lbnMgYXJlIGNvbGxlY3RlZCBmcm9tIHRoZSBuYXNhbCBtdWNvc2EsIHNraW4gbGVzaW9ucyBhbmQgZWFybG9iZXMuIFxuTmFzYWwgc21lYXJzIGFyZSBjb2xsZWN0ZWQgZnJvbSB0aGUgaW50ZXJuYWwgc2VwdHVtIG9mIHRoZSBub3NlLiBTa2luIHNtZWFycyBhcmUgY29sbGVjdGVkIGZyb20gXG50aGUgZWRnZXMgb2YgdGhlIGxlc2lvbnMgKG9wdGlvbiBCKSByYXRoZXIgdGhhbiBmcm9tIHRoZSBjZW50cmUuIFNsaXQgc2tpbiBzbWVhcnMgYXJlIHRha2VuIGFzIHdlbGwuIFxuVGhlIHNraW4gaXMgcGluY2hlZCB1cCB0aWdodCB0byBtaW5pbWlzZSBibGVlZGluZyBhbmQgYSBjdXQgaXMgbWFkZSB3aXRoIGEgc2NhbHBlbCwgZGVlcCBlbm91Z2ggdG8gXG5nZXQgaW50byB0aGUgaW5maWx0cmF0ZWQgbGF5ZXJzLiBUaGlzIGlzIGRvbmUgb3ZlciB0aGUgYnV0dG9ja3MsIGZvcmVoZWFkLCBjaGluLCBjaGVlaywgYW5kIGVhcnMgKGF0IFxubGVhc3QgNS02IGRpZmZlcmVudCBhcmVhcykgKG9wdGlvbiBDKS4iLAogICAgImltYWdlIjogImh0dHBzOi8vZ2l0aHViLmNvbS90azIya2FsYWwvbWNxaW1hZ2UvYmxvYi9tYWluL214bWljcm9iaW9sb2d5L090aGVyX015Y29iYWN0ZXJpYV9RNl9xLmpwZyIsCiAgICAiZXhwbGFuYXRpb25faW1hZ2UiOiBudWxsLAogICAgImNoYXB0ZXJfaGVhZGluZyI6ICJPdGhlciBNeWNvYmFjdGVyaWEiCiAgfSwKICB7CiAgICAicV9ubyI6IDcsCiAgICAicXVlc3Rpb24iOiAiUXVlc3Rpb24gNzogV2hhdCBpcyB0aGUgZ2VuZXJhdGlvbiB0aW1lIG9mIGxlcHJhIGJhY2lsbGk/IiwKICAgICJvcHRpb25zIjogewogICAgICAiYSI6ICIxMi0xMyBkYXlzIiwKICAgICAgImIiOiAiMTItMTMgaG91cnMiLAogICAgICAiYyI6ICIxNS0yMCBob3VycyIsCiAgICAgICJkIjogIjEgbW9udGgiCiAgICB9LAogICAgImNvcnJlY3RfYW5zd2VyIjogImEiLAogICAgImV4cGxhbmF0aW9uIjogIlRoZSBnZW5lcmF0aW9uIHRpbWUgb2YgbGVwcmEgYmFjaWxsaSBpcyAxMi0xMyBkYXlzLiBHZW5lcmF0aW9uIHRpbWUsIGFsc28ga25vd24gYXMgZG91YmxpbmcgdGltZSwgaXMgdGhlIHRpbWUgaXQgdGFrZXMgZm9yIHRoZSBiYWN0ZXJpYWwgcG9wdWxhdGlvbiB0byBcbmRvdWJsZS4gSXQgY2FuIGFsc28gYmUgbWVhc3VyZWQgYXMgdGhlIHRpbWUgYmV0d2VlbiB0d28gY2VsbCBkaXZpc2lvbnMgdW5kZXIgb3B0aW11bSBjb25kaXRpb25zLiBcblRoZSBnZW5lcmF0aW9uIHRpbWUgb2YgZGlmZmVyZW50IGJhY2lsbGkgYXJlIGdpdmVuIGJlbG93OiDigKIgTGVwcmEgYmFjaWxsaS0gMTItMTMgZGF5cyBhdmVyYWdlIChtYXkgdmFyeSBmcm9tIDgtNDIgZGF5cykg4oCiIFR1YmVyY2xlIGJhY2lsbGktIDE1LTIwIGhvdXJzIOKAoiBDb2xpZm9ybSBiYWNpbGxpLSAyMCBtaW51dGVzIiwKICAgICJpbWFnZSI6IG51bGwsCiAgICAiZXhwbGFuYXRpb25faW1hZ2UiOiBudWxsLAogICAgImNoYXB0ZXJfaGVhZGluZyI6ICJPdGhlciBNeWNvYmFjdGVyaWEiCiAgfSwKICB7CiAgICAicV9ubyI6IDgsCiAgICAicXVlc3Rpb24iOiAiUXVlc3Rpb24gODogV2hhdCBhcmUgdGhlIGJhY3RlcmlhIHByZXNlbnQgaW4gVmlyY2hvdydzIGNlbGxzPyIsCiAgICAib3B0aW9ucyI6IHsKICAgICAgImEiOiAiTS4gYXZpdW0gaW50ZXJjZWxsdWxhcmUiLAogICAgICAiYiI6ICJNLiB0dWJlcmN1bG9zaXMiLAogICAgICAiYyI6ICJNLiBib3ZpcyIsCiAgICAgICJkIjogIk0uIGxlcHJhZSIKICAgIH0sCiAgICAiY29ycmVjdF9hbnN3ZXIiOiAiZCIsCiAgICAiZXhwbGFuYXRpb24iOiAiVGhlIGJhY3RlcmlhIHByZXNlbnQgaW4gVmlyY2hvd+KAmXMgY2VsbHMgaXMgTS4gbGVwcmFlLiBMZXByb21hdG91cyBsZXByb3N5IGxlc2lvbnMgY29udGFpbiBsYXJnZSBhZ2dyZWdhdGVzIG9mIGxpcGlkIGxhZGVuIG1hY3JvcGhhZ2VzIChsZXByYSBcbmNlbGxzL1ZpcmNob3cgY2VsbHMpIHdoaWNoIGFyZSBvZnRlbiBmaWxsZWQgd2l0aCBnbG9iaSAobWFzc2VzKSBvZiBhY2lkIGZhc3QgYmFjaWxsaS4gVGhlIGltYWdlIGJlbG93IHNob3dzIGEgaGlnaC1wb3dlciBGaXRlLUZhcmFjbyBzdGFpbiBvZiBhIHNraW4gbGVzaW9uIHNob3dpbmcgZ2xvYmkgb2YgTS5sZXByYWUuIDE4NyBcblNvbGQgYnkgQGl0YWNoaWJvdCIsCiAgICAiaW1hZ2UiOiBudWxsLAogICAgImV4cGxhbmF0aW9uX2ltYWdlIjogbnVsbCwKICAgICJjaGFwdGVyX2hlYWRpbmciOiAiT3RoZXIgTXljb2JhY3RlcmlhIgogIH0sCiAgewogICAgInFfbm8iOiA5LAogICAgInF1ZXN0aW9uIjogIlF1ZXN0aW9uIDk6IFlvdSBjb3Vuc2VsIGEgcGF0aWVudCB3aXRoIGxlcHJvc3kgYWJvdXQgbGVwcmEgcmVhY3Rpb25zIGJlZm9yZSBzdGFydGluZyBoZXIgb24gbXVsdGlkcnVnIFxudGhlcmFweS4gV2hpY2ggYW1vbmcgdGhlc2UgaXMgY29ycmVjdCByZWdhcmRpbmcgdGhlc2UgcmVhY3Rpb25zPyIsCiAgICAib3B0aW9ucyI6IHsKICAgICAgImEiOiAiMSwgMiBhbmQgNCIsCiAgICAgICJiIjogIjMgYW5kIDUgb25seSIsCiAgICAgICJjIjogIjIsIDQgYW5kIDUiLAogICAgICAiZCI6ICIxIGFuZCAyIG9ubHkiCiAgICB9LAogICAgImNvcnJlY3RfYW5zd2VyIjogImMiLAogICAgImV4cGxhbmF0aW9uIjogIlN0YXRlbWVudHMgMiwgNCwgYW5kIDUgcmVnYXJkaW5nIGxlcHJhIHJlYWN0aW9ucyBhcmUgY29ycmVjdC4gVHlwZSAyIGxlcHJhIHJlYWN0aW9ucyBhcmUgdW5yZWxhdGVkIHRvIGRydWcgdGhlcmFweSwgd2hlcmVhcyB0eXBlIDEgcmVhY3Rpb25zIG1heSBvY2N1ciB3aXRoaW4gYSBcbnllYXIgb2Ygc3RhcnRpbmcgdHJlYXRtZW50LiBOZXcgbGVzaW9ucyB0eXBpY2FsbHkgYXBwZWFyIGluIHR5cGUgMiBsZXByYSByZWFjdGlvbnMuIFRoZXkgYXJlIHRlbmRlciBhbmQgZXJ5dGhlbWF0b3VzIFxuc3ViY3V0YW5lb3VzIGFuZCBkZXJtYWwgbm9kdWxlcy4gRXhpc3RpbmcgbGVzaW9ucyBzaG93IG5vIGNoYW5nZXMuIiwKICAgICJpbWFnZSI6IG51bGwsCiAgICAiZXhwbGFuYXRpb25faW1hZ2UiOiBudWxsLAogICAgImNoYXB0ZXJfaGVhZGluZyI6ICJPdGhlciBNeWNvYmFjdGVyaWEiCiAgfSwKICB7CiAgICAicV9ubyI6IDEwLAogICAgInF1ZXN0aW9uIjogIlF1ZXN0aW9uIDEwOiBBIHBhdGllbnQgZGlhZ25vc2VkIHdpdGggbGVwcm9zeSB3YXMgdW5kZXJnb2luZyBmdXJ0aGVyIGV2YWx1YXRpb24gZm9yIGNsYXNzaWZpY2F0aW9uIG9mIHR5cGUgXG5hbmQgaW1tdW5lIHJlc3BvbnNlLiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIHN0YXRlbWVudHMgaXMgZmFsc2UgcmVnYXJkaW5nIHRoZSBpbnRyYWRlcm1hbCBcbnRlc3QgdXNlZCBpbiBzdWNoIGV2YWx1YXRpb24/IiwKICAgICJvcHRpb25zIjogewogICAgICAiYSI6ICJOZWdhdGl2ZSBpbiBjaGlsZHJlbiAmbHQ7NiBtb250aCBhZ2UiLAogICAgICAiYiI6ICJJdCBoYXMgbm8gdmFsdWUgaW4gcHJvZ25vc3RpY2F0aW9uIG9mIGxlcHJvc3kiLAogICAgICAiYyI6ICJVc2VkIHRvIGNsYXNzaWZ5IGxlcHJvc3kiLAogICAgICAiZCI6ICJCQ0cgdmFjY2luZSBtYXkgY29udmVydCBhIG5lZ2F0aXZlIHRlc3QgdG8gcG9zaXRpdmUiCiAgICB9LAogICAgImNvcnJlY3RfYW5zd2VyIjogImIiLAogICAgImV4cGxhbmF0aW9uIjogIlRoZSBsZXByb21pbiB0ZXN0IGhhcyB2YWx1ZSBhcyBhIHByb2dub3N0aWMgdGVzdCBmb3IgbGVwcm9zeS4gVGhlIGxlcHJvbWluLCBvciBNaXRzdWRhIHRlc3QsIGlzIGEgbWV0aG9kIHRvIG1lYXN1cmUgY2VsbHVsYXIgaW1tdW5pdHkgaW4gbGVwcm9zeS4gSXQgaXMgYSBza2luIFxudGVzdCBmb3IgZGVsYXllZCBoeXBlcnNlbnNpdGl2aXR5IHRvIGxlcHJhIGFudGlnZW5zLiBBIGJhY2lsbGFyeSBzdXNwZW5zaW9uIG9mIGluYWN0aXZhdGVkIE0uIGxlcHJhZSBcbmlzIGluamVjdGVkIGp1c3QgdW5kZXIgdGhlIHNraW4gYW5kIHRoZSBpbmR1cmF0aW9uIHJlYWN0aW9uIGlzIG1lYXN1cmVkIDPigJM0IHdlZWtzIGFmdGVyLiBJdCBpcyB1c2VkIHRvIGNsYXNzaWZ5IGxlcHJvc3kuIEEgbmVnYXRpdmUgbGVwcm9taW4gdGVzdCBpcyBzZWVuIGluIGxlcHJvbWF0b3VzIGFuZCBib3JkZXJsaW5lIFxubGVwcm9zeS4gSXQgaXMgbmVnYXRpdmUgaW4gY2hpbGRyZW4gJmx0OzYgbW9udGhzIG9mIGFnZSwgaXQgbWF5IGJlIHBvc2l0aXZlIGF0IHRoZSBlbmQgb2YgMXN0IFxueWVhci4gQkNHIHZhY2NpbmUgaXMgY2FwYWJsZSBvZiBjb252ZXJ0aW5nIGEgbmVnYXRpdmUgbGVwcm9taW4gdGVzdCB0byBhIHBvc2l0aXZlLiIsCiAgICAiaW1hZ2UiOiBudWxsLAogICAgImV4cGxhbmF0aW9uX2ltYWdlIjogbnVsbCwKICAgICJjaGFwdGVyX2hlYWRpbmciOiAiT3RoZXIgTXljb2JhY3RlcmlhIgogIH0sCiAgewogICAgInFfbm8iOiAxMSwKICAgICJxdWVzdGlvbiI6ICJRdWVzdGlvbiAxMTogWW91IGFyZSBwZXJmb3JtaW5nIHRoZSB0ZXN0IHNob3duIGluIHRoZSBpbWFnZSBvbiBhIHBhdGllbnQuIEhvdyBtYW55IGRheXMgbGF0ZXIgZG8geW91IGFzayBcbnRoZSBwYXRpZW50IHRvIHJldHVybiBzbyB0aGF0IHlvdSBnZXQgYW4gYWNjdXJhdGUgcmVhZCBvbiB0aGUgTWl0c3VkYSByZWFjdGlvbj8gMTgxIFxuU29sZCBieSBAaXRhY2hpYm90IiwKICAgICJvcHRpb25zIjogewogICAgICAiYSI6ICIzIGRheXMiLAogICAgICAiYiI6ICIxMCBkYXlzIiwKICAgICAgImMiOiAiMjAgZGF5cyIsCiAgICAgICJkIjogIjMwIGRheXMiCiAgICB9LAogICAgImNvcnJlY3RfYW5zd2VyIjogImMiLAogICAgImV4cGxhbmF0aW9uIjogIk1pdHN1ZGEncyByZWFjdGlvbiBpcyByZWFkIGluIHRoZSAzcmQgd2VlaywgaS5lLiwgb24gdGhlIDIxc3QgZGF5IG9yIDIwIGRheXMgYWZ0ZXIgdGhlIGRheSBvZiBcbmluamVjdGlvbi4gTGVwcm9taW4gdGVzdCBpcyBhIHNraW4gdGVzdCBmb3IgZGVsYXllZCBoeXBlcnNlbnNpdGl2aXR5IHRvIGxlcHJhIGFudGlnZW5zLiBJdCBpcyB0aGUgb25seSBtZXRob2QgZm9yIFxuc3R1ZHlpbmcgaW1tdW5pdHkgaW4gbGVwcm9zeS4gQSBiYWNpbGxhcnkgc3VzcGVuc2lvbiBvZiBpbmFjdGl2YXRlZCBNLiBsZXByYWUgaXMgaW5qZWN0ZWQganVzdCAxODggXG5Tb2xkIGJ5IEBpdGFjaGlib3QgdW5kZXIgdGhlIHNraW4uIFRoZSBmaXJzdCByZWFjdGlvbiB0byBvY2N1ciBpcyB0aGUgZWFybHkgcmVhY3Rpb24gb2YgRmVybmFuZGV6LCB3aGljaCBjb25zaXN0cyBvZiBlcnl0aGVtYSBhbmQgXG5pbmR1cmF0aW9uIGRldmVsb3BpbmcgaW4gMjQtNDggaG91cnMuIEl0IHVzdWFsbHkgcmVtYWlucyBmb3IgMy01IGRheXM7IGl0IGlzIHVzdWFsbHkgcG9vcmx5IGRlZmluZWQgXG5hbmQgY2FycmllcyBsZXNzIHNpZ25pZmljYW5jZS4gVGhlIHNlY29uZCBhbmQgbW9yZSBtZWFuaW5nZnVsIHJlc3VsdCBpcyB0aGUgbGF0ZSByZWFjdGlvbiBvZiBcbk1pdHN1ZGEsIHN0YXJ0aW5nIGF0IDEtMiB3ZWVrcyAoNy0xMCBkYXlzKSwgcmVhY2hpbmcgYSBwZWFrIGluIHRocmVlIG9yIGZvdXIgd2Vla3MsIGFuZCBncmFkdWFsbHkgXG5zdWJzaWRpbmcgb3ZlciB0aGUgbmV4dCBmZXcgd2Vla3MuIE9uIHRoZSAyMXN0IGRheSwgaWYgdGhlcmUgaXMgYSBub2R1bGUgbW9yZSB0aGFuIDUgbW0gaW4gXG5kaWFtZXRlciwgdGhlIHJlYWN0aW9uIGlzIHNhaWQgdG8gYmUgcG9zaXRpdmUuIE5vdGU6IFRoZSAyMXN0IGRheSBpcyAyMCBkYXlzIGFmdGVyIHRoZSBkYXkgb2YgaW5qZWN0aW9uIHdoaWNoIGlzIGNvdW50ZWQgYXMgdGhlIDFzdCBkYXkuIiwKICAgICJpbWFnZSI6ICJodHRwczovL2dpdGh1Yi5jb20vdGsyMmthbGFsL21jcWltYWdlL2Jsb2IvbWFpbi9teG1pY3JvYmlvbG9neS9PdGhlcl9NeWNvYmFjdGVyaWFfUTExX3EuanBnIiwKICAgICJleHBsYW5hdGlvbl9pbWFnZSI6IG51bGwsCiAgICAiY2hhcHRlcl9oZWFkaW5nIjogIk90aGVyIE15Y29iYWN0ZXJpYSIKICB9LAogIHsKICAgICJxX25vIjogMTIsCiAgICAicXVlc3Rpb24iOiAiUXVlc3Rpb24gMTI6IEEgbGVwcm9zeSB2YWNjaW5lIGlzIGJlaW5nIGludHJvZHVjZWQgb24gYSBwaWxvdCBiYXNpcyBpbiBJbmRpYS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBcbm15Y29iYWN0ZXJpYWwgc3BlY2llcyBpcyB0aGUgYmFzaXMgZm9yIGl0cyBkZXZlbG9wbWVudD8iLAogICAgIm9wdGlvbnMiOiB7CiAgICAgICJhIjogIkVzY2hlcmljaGlhIiwKICAgICAgImIiOiAiU2FsbW9uZWxsYSIsCiAgICAgICJjIjogIlNoaWdlbGxhIiwKICAgICAgImQiOiAiUHJvdGV1cyIKICAgIH0sCiAgICAiY29ycmVjdF9hbnN3ZXIiOiAiZCIsCiAgICAiZXhwbGFuYXRpb24iOiAiTXljb2JhY3Rlcml1bSBpbmRpY3VzIHByYW5paSBpcyB0aGUgYmFzaXMgZm9yIHRoZSBkZXZlbG9wbWVudCBvZiBhIGxlcHJvc3kgdmFjY2luZS4gVGhlIGxlcHJvc3kgdmFjY2luZSBzcGVjaWVzIHdhcyBvcmlnaW5hbGx5IGNhbGxlZCBNeWNvYmFjdGVyaXVtIFcgKE0udykgYnV0IHdhcyBsYXRlciByZW5hbWVkIFxuTXljb2JhY3Rlcml1bSBpbmRpY3VzIHByYW5paS4gVGhlIHZhY2NpbmUgaXMgYWRtaW5pc3RlcmVkIHZpYSBpbnRyYWRlcm1hbCByb3V0ZS4gVGhlIGRvc2UgaXMgMC4xIFxubWwuIEl0IGlzIGRpdmlkZWQgaW50byB0d28gZXF1YWwgZG9zZXMgYW5kIGdpdmVuIG9uIGJvdGggYXJtcy4gQm9vc3RlciBkb3NlcyB3aWxsIGJlIGdpdmVuIHRvIG1haW50YWluIHRoZSBpbW11bml0eSBsZXZlbC4gVGhlc2UgYXJlIGdpdmVuIG9ubHkgaW4gb25lIGFybS4gMTg5IFxuU29sZCBieSBAaXRhY2hpYm90IEVzY2hlcmljaGlhLCBQcm90ZXVzIGFuZCBLbGVic2llbGxhIiwKICAgICJpbWFnZSI6ICJodHRwczovL2dpdGh1Yi5jb20vdGsyMmthbGFsL21jcWltYWdlL2Jsb2IvbWFpbi9teG1pY3JvYmlvbG9neS9PdGhlcl9NeWNvYmFjdGVyaWFfUTEyX3EuanBnIiwKICAgICJleHBsYW5hdGlvbl9pbWFnZSI6ICJodHRwczovL2dpdGh1Yi5jb20vdGsyMmthbGFsL21jcWltYWdlL2Jsb2IvbWFpbi9teG1pY3JvYmlvbG9neS9PdGhlcl9NeWNvYmFjdGVyaWFfUTEyX2V4cC5qcGciLAogICAgImNoYXB0ZXJfaGVhZGluZyI6ICJPdGhlciBNeWNvYmFjdGVyaWEiCiAgfQpd
+[
+  {
+    "q_no": 1,
+    "question": "Question 1: Which of the following is a pigment-producing species of mycobacteria?",
+    "options": {
+      "a": "M. ulcerans",
+      "b": "M. scrofulaceum",
+      "c": "M. avium intracellulare complex",
+      "d": "M. xenopi"
+    },
+    "correct_answer": "b",
+    "explanation": "182 \nSold by @itachibot Mycobacterium scrofulaceum is a pigment-producing species of mycobacteria. M. scrofulaceum is a scotochromogen which produces yellow or orange colored pigments, even in \nthe dark. It belongs to group II of Runyon's classification. It can cause scrofula or cervical adenitis \nin children. M.ulcerans, M.avium intracellulare complex (MAC), and M. xenopi belong to group III-non \nphotochromogens as they do not form pigment even on exposure to light.",
+    "image": null,
+    "explanation_image": null,
+    "chapter_heading": "Other Mycobacteria"
+  },
+  {
+    "q_no": 2,
+    "question": "Question 2: A microbiologist working with mycobacteria notes moist, smooth, flat, white colonies growing \non Lowenstein-Jensen media. Which species of mycobacteria is she likely studying?",
+    "options": {
+      "a": "Mycobacterium tuberculosis",
+      "b": "Mycobacterium bovis",
+      "c": "Mycobacterium kansasii",
+      "d": "Mycobacterium avium-intracellulare"
+    },
+    "correct_answer": "b",
+    "explanation": "The species of mycobacteria being studied here is Mycobacterium bovis. It forms moist, smooth, \nflat, white colonies on Lowenstein-Jensen (LJ) media that break-up easily when touched. Mycobacterium bovis belongs to the Mycobacterium tuberculosis complex. It causes \ntuberculosis-like disease in humans. Lowenstein–Jensen medium is a commonly used, egg-based, selective media for mycobacteria. It \ncontains: • Egg- Provides fatty acids and protein required for metabolism • Malachite green- Prevents the growth of contaminants. Makes it a selective medium. • Mineral salt solution- Buffer • Glycerol- Source of carbon, favors growth of M. tuberculosis, but not M. bovis. LJ medium \nwithout glycerol, which contains pyruvate, is used for culture of M. bovis. • L-asparagine- Nitrogen source The image below shows M.bovis colonies on LJ media. Mycobacterium tuberculosis colonies on LJ medium are dry, rough, raised and irregular with a \nwrinkled surface. They are creamy white or buff-colored, tenacious and difficult to \nemulsify(rough, tough, buff). 183 \nSold by @itachibot",
+    "image": null,
+    "explanation_image": null,
+    "chapter_heading": "Other Mycobacteria"
+  },
+  {
+    "q_no": 3,
+    "question": "Question 3: The following findings are obtained during biochemical testing of a mycobacterial species. \nIdentify the organism.",
+    "options": {
+      "a": "M. bovis",
+      "b": "M. tuberculosis",
+      "c": "M. simiae",
+      "d": "M. kansasii"
+    },
+    "correct_answer": "c",
+    "explanation": "The given biochemical findings are characteristic of Mycobacterium simiae. Eventhough atypical \nmycobacteria or non-tuberculous mycobacteria(NTM) are usually niacin test negative, some NTM \nlike M. simiae and M. chelonae give a positive niacin test positive. Mycobacteria can be identified based on their biochemical reactions as follows: The first four tests are used to distinguish between M. tb complex and atypical mycobacteria while \nthe last four tests are used to distinguish between M. tb and M. bovis. Biochemical tes \nt M. tb \nM. bov \nis NTM Catalase \nWeak+ \nWeak \n+ +++ Peroxidase \n+ \n+ \n_ Arylsulfatse \n- \n- \n+ Niacin \n+ \n- \n- + \n- \nN/A Nitrate reductio \nn Pyrazinamidase \n+ \n- \nN/A N/A Sensiti \nve TCH sensitivity \nResista \nnt",
+    "image": null,
+    "explanation_image": null,
+    "chapter_heading": "Other Mycobacteria"
+  },
+  {
+    "q_no": 4,
+    "question": "Question 4: A 54-year-old male presents with an ulcer on his hand. On swab culture, growth of M. \nulcerans is seen. What is the diagnosis?",
+    "options": {
+      "a": "Hunner’s ulcer",
+      "b": "Meleney’s ulcer",
+      "c": "Buruli ulcer",
+      "d": "Marjolin's ulcer"
+    },
+    "correct_answer": "c",
+    "explanation": "184 \nSold by @itachibot Mycobacterium ulcerans causes Buruli ulcer. M. ulcerans produces a toxin called mycolactone which leads to formation of Buruli ulcer. This is \na chronic, debilitating, necrotizing disease of the skin and soft tissue which is characterized by the \nformation of ulcers that progressively enlarge over time if left untreated. The ulcers heal with \ndisfiguring scars. The image below shows a Buruli ulcer. Option A: Hunner's ulcers are seen in a subset of patients with interstitial cystitis. These are areas \nof inflammation on the bladder wall. The image below shows a cystoscopic image of a Hunner's ulcer. Option B: Meleney's ulcer or post-operative synergistic bacterial gangrene occurs in \nimmuno-compromised individuals following abdominal surgery. It is caused by a synergistic \ninteraction between microaerophilic nonhemolytic Streptococcus and hemolytic aerobic \nStaphylococcus aureus. 185 \nSold by @itachibot Option D: Marjolin ulcer is a rare and aggressive form of squamous cell carcinoma that grows \nfrom burns, scars, or poorly healing wounds. The image below shows a Marjolin's ulcer in a burn scar.",
+    "image": null,
+    "explanation_image": null,
+    "chapter_heading": "Other Mycobacteria"
+  },
+  {
+    "q_no": 5,
+    "question": "Question 5: A 42-year-old man who works at an aquarium and handles the fish without protective \nequipment presents to the OPD with the following finding. Infection with which of the \nfollowing bacteria led to his condition?",
+    "options": {
+      "a": "M. kansasi",
+      "b": "M. marinum",
+      "c": "M. paratuberculosis",
+      "d": "M. gordonae"
+    },
+    "correct_answer": "b",
+    "explanation": "The image shows a fish tank granuloma that is caused by M. marinum. The typical clinical presentation is as a single, small violet papule or nodule confined to one \nextremity, developing 2-3 weeks after trauma. The nodule may break down to form an indolent \nulcer. M. marinarum is a natural pathogen of fish and amphibians, which spreads to humans who \ncome in contact with contaminated swimming pools or fish tanks. Other non-tuberculous mycobacteria causing disease in humans include: • M. kansasii: Disease resembles pulmonary TB • M. scrofulaceum: Cervical lymphadenitis • M. avium complex: Pulmonary, disseminated TB, especially in AIDS patients • M. fortuitum: Nail salon furunculosis M. paratuberculosis (aka Johne’s bacillus) causes Johne’s disease in cattle. It is associated with \nCrohn’s disease in humans.",
+    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Other_Mycobacteria_Q5_q.jpg",
+    "explanation_image": null,
+    "chapter_heading": "Other Mycobacteria"
+  },
+  {
+    "q_no": 6,
+    "question": "Question 6: Which of the following statements is true about the microbiological diagnosis of the disease \nafflicting the patient shown below? 179 \nSold by @itachibot",
+    "options": {
+      "a": "Acid fast staining is done by Ziehl-Neelsen technique, using 25% sulphuric acid",
+      "b": "Sample should be collected from the centre of the lesion",
+      "c": "The number of samples to be collected is 3-4",
+      "d": "It is cultivated in nine banded armadillos and foot pads of mice"
+    },
+    "correct_answer": "d",
+    "explanation": "The image depicts leonine facies in a patient suffering from leprosy or Hansen's disease caused by \nMycobacterium leprae. It is cultivated in nine-banded armadillos and footpads of mice. 186 \nSold by @itachibot M. leprae is a Gram-positive, weakly acid fast bacillus. Thus, 5% sulphuric acid (option A) is used \nfor decolourisation to demonstrate M.leprae's acid-fastness. On microscopy, the bacilli appear \nbound together in masses called globi, within which they are arranged in a 'cigar bundle' \nappearance. For leprosy diagnosis, specimens are collected from the nasal mucosa, skin lesions and earlobes. \nNasal smears are collected from the internal septum of the nose. Skin smears are collected from \nthe edges of the lesions (option B) rather than from the centre. Slit skin smears are taken as well. \nThe skin is pinched up tight to minimise bleeding and a cut is made with a scalpel, deep enough to \nget into the infiltrated layers. This is done over the buttocks, forehead, chin, cheek, and ears (at \nleast 5-6 different areas) (option C).",
+    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Other_Mycobacteria_Q6_q.jpg",
+    "explanation_image": null,
+    "chapter_heading": "Other Mycobacteria"
+  },
+  {
+    "q_no": 7,
+    "question": "Question 7: What is the generation time of lepra bacilli?",
+    "options": {
+      "a": "12-13 days",
+      "b": "12-13 hours",
+      "c": "15-20 hours",
+      "d": "1 month"
+    },
+    "correct_answer": "a",
+    "explanation": "The generation time of lepra bacilli is 12-13 days. Generation time, also known as doubling time, is the time it takes for the bacterial population to \ndouble. It can also be measured as the time between two cell divisions under optimum conditions. \nThe generation time of different bacilli are given below: • Lepra bacilli- 12-13 days average (may vary from 8-42 days) • Tubercle bacilli- 15-20 hours • Coliform bacilli- 20 minutes",
+    "image": null,
+    "explanation_image": null,
+    "chapter_heading": "Other Mycobacteria"
+  },
+  {
+    "q_no": 8,
+    "question": "Question 8: What are the bacteria present in Virchow's cells?",
+    "options": {
+      "a": "M. avium intercellulare",
+      "b": "M. tuberculosis",
+      "c": "M. bovis",
+      "d": "M. leprae"
+    },
+    "correct_answer": "d",
+    "explanation": "The bacteria present in Virchow’s cells is M. leprae. Lepromatous leprosy lesions contain large aggregates of lipid laden macrophages (lepra \ncells/Virchow cells) which are often filled with globi (masses) of acid fast bacilli. The image below shows a high-power Fite-Faraco stain of a skin lesion showing globi of M.leprae. 187 \nSold by @itachibot",
+    "image": null,
+    "explanation_image": null,
+    "chapter_heading": "Other Mycobacteria"
+  },
+  {
+    "q_no": 9,
+    "question": "Question 9: You counsel a patient with leprosy about lepra reactions before starting her on multidrug \ntherapy. Which among these is correct regarding these reactions?",
+    "options": {
+      "a": "1, 2 and 4",
+      "b": "3 and 5 only",
+      "c": "2, 4 and 5",
+      "d": "1 and 2 only"
+    },
+    "correct_answer": "c",
+    "explanation": "Statements 2, 4, and 5 regarding lepra reactions are correct. Type 2 lepra reactions are unrelated to drug therapy, whereas type 1 reactions may occur within a \nyear of starting treatment. New lesions typically appear in type 2 lepra reactions. They are tender and erythematous \nsubcutaneous and dermal nodules. Existing lesions show no changes.",
+    "image": null,
+    "explanation_image": null,
+    "chapter_heading": "Other Mycobacteria"
+  },
+  {
+    "q_no": 10,
+    "question": "Question 10: A patient diagnosed with leprosy was undergoing further evaluation for classification of type \nand immune response. Which of the following statements is false regarding the intradermal \ntest used in such evaluation?",
+    "options": {
+      "a": "Negative in children &lt;6 month age",
+      "b": "It has no value in prognostication of leprosy",
+      "c": "Used to classify leprosy",
+      "d": "BCG vaccine may convert a negative test to positive"
+    },
+    "correct_answer": "b",
+    "explanation": "The lepromin test has value as a prognostic test for leprosy. The lepromin, or Mitsuda test, is a method to measure cellular immunity in leprosy. It is a skin \ntest for delayed hypersensitivity to lepra antigens. A bacillary suspension of inactivated M. leprae \nis injected just under the skin and the induration reaction is measured 3–4 weeks after. It is used to classify leprosy. A negative lepromin test is seen in lepromatous and borderline \nleprosy. It is negative in children &lt;6 months of age, it may be positive at the end of 1st \nyear. BCG vaccine is capable of converting a negative lepromin test to a positive.",
+    "image": null,
+    "explanation_image": null,
+    "chapter_heading": "Other Mycobacteria"
+  },
+  {
+    "q_no": 11,
+    "question": "Question 11: You are performing the test shown in the image on a patient. How many days later do you ask \nthe patient to return so that you get an accurate read on the Mitsuda reaction? 181 \nSold by @itachibot",
+    "options": {
+      "a": "3 days",
+      "b": "10 days",
+      "c": "20 days",
+      "d": "30 days"
+    },
+    "correct_answer": "c",
+    "explanation": "Mitsuda's reaction is read in the 3rd week, i.e., on the 21st day or 20 days after the day of \ninjection. Lepromin test is a skin test for delayed hypersensitivity to lepra antigens. It is the only method for \nstudying immunity in leprosy. A bacillary suspension of inactivated M. leprae is injected just 188 \nSold by @itachibot under the skin. The first reaction to occur is the early reaction of Fernandez, which consists of erythema and \ninduration developing in 24-48 hours. It usually remains for 3-5 days; it is usually poorly defined \nand carries less significance. The second and more meaningful result is the late reaction of \nMitsuda, starting at 1-2 weeks (7-10 days), reaching a peak in three or four weeks, and gradually \nsubsiding over the next few weeks. On the 21st day, if there is a nodule more than 5 mm in \ndiameter, the reaction is said to be positive. Note: The 21st day is 20 days after the day of injection which is counted as the 1st day.",
+    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Other_Mycobacteria_Q11_q.jpg",
+    "explanation_image": null,
+    "chapter_heading": "Other Mycobacteria"
+  },
+  {
+    "q_no": 12,
+    "question": "Question 12: A leprosy vaccine is being introduced on a pilot basis in India. Which of the following \nmycobacterial species is the basis for its development?",
+    "options": {
+      "a": "Escherichia",
+      "b": "Salmonella",
+      "c": "Shigella",
+      "d": "Proteus"
+    },
+    "correct_answer": "d",
+    "explanation": "Mycobacterium indicus pranii is the basis for the development of a leprosy vaccine. The leprosy vaccine species was originally called Mycobacterium W (M.w) but was later renamed \nMycobacterium indicus pranii. The vaccine is administered via intradermal route. The dose is 0.1 \nml. It is divided into two equal doses and given on both arms. Booster doses will be given to maintain the immunity level. These are given only in one arm. 189 \nSold by @itachibot Escherichia, Proteus and Klebsiella",
+    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Other_Mycobacteria_Q12_q.jpg",
+    "explanation_image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Other_Mycobacteria_Q12_exp.jpg",
+    "chapter_heading": "Other Mycobacteria"
+  }
+]
