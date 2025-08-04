@@ -10,7 +10,7 @@
     },
     "correct_answer": "b",
     "explanation": "Eijkman test is also known as differential coliform test. Drinking water should be free of any pathogenic microorganisms. The presence of coliform \nbacteria in the water may indicate faecal pollution, while the detection of E.coli confirms it. The presumptive coliform test is done by the multiple tube technique. Following this, the Eijkman \ntest is done to confirm the presence of E. coli. They can grow at 44°C (faecal thermotolerant \nbacilli), ferment lactose and cause indole and gas production. Option A: Presumptive coliform count detects the probable number of coliform bacilli in water. It \ncan be positive due to the presence of organisms other than E.coli also. Option C: Colony counts provide an estimate of the general bacterial purity of water. Option D: Methylene blue reduction test is used to assess the bacterial contamination of milk.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q1_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q1_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -25,7 +25,7 @@
     },
     "correct_answer": "b",
     "explanation": "Recent fecal contamination of water is suggested by the presence of enterococcus (fecal \nstreptococci). Clostridium perfringens may be present for a long duration. If it is present in water, it suggests \nthat contamination is not recent. If Escherichia coli is detected, it is definitive proof of fecal contamination. However, it is \nnon-specific for suggesting the duration of the contamination.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q2_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q2_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -145,7 +145,7 @@
     },
     "correct_answer": "d",
     "explanation": "The hemagglutination test is not based on the principle of antibody marking. When antibodies bind to antigens on the surface of red blood cells, the resultant clumping \nreaction is referred to as hemagglutination. It is routinely performed to type red blood cells in \nABO blood-typing. The image below shows hemagglutination. In ELISA, radioimmunoassay and immunofluorescence, the antigens or antibodies are labeled or \nmarked with enzymes, fluorescent dyes, etc. Note: If no hemagglutination occurs it means the patient’s serum has anti-haemagglutinin \nantibodies that bind to hemagglutinin and prevent the clumping reaction. This hemagglutination \ninhibition reaction is a method of detection of viruses and antiviral-antibodies and is used to \nmake a diagnosis of influenza.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q10_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q10_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -220,7 +220,7 @@
     },
     "correct_answer": "b",
     "explanation": "The above image shows a HbsAg card test kit which works on the principle \nof immunochromatography. The immunochromatographic membrane is used for antigen detection, while a nitrocellulose \nmembrane is used to absorb the antigen from a specimen. A coloured reaction appears directly on \nthe membrane with the sequential addition of conjugate followed by the substrate. In some cases, \nthe antigen is captured by a bound antibody directed against the antigen. These assays have the \nadvantage of being rapid and also frequently include a built-in internal control. 615 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q15_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q15_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -235,7 +235,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given clinical scenario and the peripheral smear showing sheathed microfilaria with two \nnuclei at the tail tip is suggestive of infection with Brugia malayi. Acute infection may manifest as acute adenolymphangitis which is characterized by high fever, \nlymphatic inflammation (lymphangitis and lymphadenitis) and transient local edema. The \nmost commonly affected lymph nodes are inguinal nodes followed by axillary nodes which \nbecome enlarged, painful and tender. The following are the characteristic features of microfilaria of Brugia malayi: • Smaller in size compared to microfilaria of W. bancrofti. • Shows kinks and secondary curves. • Cephalic space is longer. • Carries double stylets at the anterior end. • Nuclear column appears blurred in Giemsa-stained films. • Tail tip carries 2 distinct nuclei, one terminal and the other subterminal. The below image shows the microfilaria of Brugia malayi. 596 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q16_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q16_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -295,7 +295,7 @@
     },
     "correct_answer": "a",
     "explanation": "Tropical pulmonary eosinophilia is also known as Weingarten syndrome. Tropical eosinophilia occurs as a result of hypersensitivity reaction to microfilarial antigens and \nnot directly due to lymphatic involvement. It is a manifestation of occult filariasis \n(Meyer's-Kouwenaar syndrome). Clinical features of occult filariasis include massive eosinophilia and hepatosplenomegaly. Synonyms of tropical pulmonary eosinophilia include - • Weingarten syndrome • Pseudo-tuberculosis of the lung • Eosinophilic pseudo-leukemia • Tropical eosinophilic asthma • Frimodt-Moller and Barton's syndrome",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q20_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q20_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -400,7 +400,7 @@
     },
     "correct_answer": "b",
     "explanation": "The disc diffusion method for antibiotic susceptibility testing is applied in the Kirby-Bauer \nmethod. To perform Kirby-Bauer’s disc diffusion method, a suitable standard dilution of a broth culture of \nthe test bacterium is inoculated on the surface of a solid medium (Cation-adjusted Mueller-Hinton \nagar) as a lawn culture. After drying, various antibiotic discs are placed on its surface. Zones of \ninhibition around the disc are recorded and interpreted according to the zone diameters available \nin the tables of the Clinical and Laboratory Standards Institute (CLSI) guidelines. The results \nobtained are qualitative (resistant, sensitive, or partially sensitive). Laboratory testing for antibiotic sensitivity can be done by: • Diffusion method- Kirby-Bauer disc diffusion method, Stokes disc diffusion method • Dilution method- broth dilution method, agar dilution method • Combination of diffusion and dilution method- E–test (Epsilometer) The image below shows Kirby-Bauer disc diffusion method. 611 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q7_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q7_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -430,7 +430,7 @@
     },
     "correct_answer": "d",
     "explanation": "Real-time polymerase chain reaction (PCR) can be used to quantify the PCR by monitoring the \namplification process while the PCR is ongoing. Types of PCR: • Reverse transcriptase PCR- The enzyme reverse transcriptase (RT) is used to synthesize a \ncomplementary copy of DNA (cDNA) from RNA and this cDNA is then used as a template for \nPCR. • Real-time PCR- This helps quantify the PCR and gives an estimate of the pathogen DNA load in \nthe specimen. It uses fluorescent dyes or specific DNA probes. It is also known as qPCR \n(Quantitative PCR) • Multiplex PCR- Primers to more than one pathogen are used simultaneously and hence multiple \nproducts are obtained. 612 \nSold by @itachibot • Nested PCR- It involves the sequential use of two primer sets. The first primer set is used for \namplification and the amplicon obtained is then used as a target sequence for second \namplification. This ensures specificity.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q9_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q9_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -490,7 +490,7 @@
     },
     "correct_answer": "c",
     "explanation": "From the given case scenario and image we can deduce that the most likely organism involved is \nEnterococcus faecalis. The image shows gram-positive cocci in chains, that are described as catalase negative. This helps \nrule out Staphylocococcus aureus and coagulase-negative staphylococcus. 614 \nSold by @itachibot Streptococcus viridans is usually sensitive to penicillin and vancomycin hence it is ruled out. The mechanism of vancomycin resistance seen in E. faecalis is the alteration of the \nD-alanyl–D-alanine chain in the cell wall.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q13_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q13_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -520,7 +520,7 @@
     },
     "correct_answer": "b",
     "explanation": "The above image shows a HbsAg card test kit which works on the principle \nof immunochromatography. The immunochromatographic membrane is used for antigen detection, while a nitrocellulose \nmembrane is used to absorb the antigen from a specimen. A coloured reaction appears directly on \nthe membrane with the sequential addition of conjugate followed by the substrate. In some cases, \nthe antigen is captured by a bound antibody directed against the antigen. These assays have the \nadvantage of being rapid and also frequently include a built-in internal control. 615 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q15_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q15_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -535,7 +535,7 @@
     },
     "correct_answer": "b",
     "explanation": "Eijkman test is also known as differential coliform test. Drinking water should be free of any pathogenic microorganisms. The presence of coliform \nbacteria in the water may indicate faecal pollution, while the detection of E.coli confirms it. The presumptive coliform test is done by the multiple tube technique. Following this, the Eijkman \ntest is done to confirm the presence of E. coli. They can grow at 44°C (faecal thermotolerant \nbacilli), ferment lactose and cause indole and gas production. Option A: Presumptive coliform count detects the probable number of coliform bacilli in water. It \ncan be positive due to the presence of organisms other than E.coli also. Option C: Colony counts provide an estimate of the general bacterial purity of water. Option D: Methylene blue reduction test is used to assess the bacterial contamination of milk.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q1_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q1_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -580,7 +580,7 @@
     },
     "correct_answer": "a",
     "explanation": "The image depicts the production of monoclonal antibodies by hybridoma technology. The following are the steps involved in hybridoma technology: • Mice are immunized with an antigen. After several weeks of immunization, blood samples are \nobtained from mice for measurement of serum antibodies. • When the antibody titer is high enough, mice are commonly boosted by injecting antigen \nwithout adjuvant intraperitoneally or intravenously. Then the mice are euthanized and their \nspleens removed for in vitro hybridoma cell production. • Fusing antibody-producing spleen cells, which have a limited life span with myeloma cells \n(derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable of \nunlimited growth. • The cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HAT \nmedium) which allows only the fused cells to survive in culture. • Monoclonal antibodies are then harvested.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q4_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q4_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -595,7 +595,7 @@
     },
     "correct_answer": "b",
     "explanation": "Aminopterin is a folate antagonist present in the HAT medium that inhibits the de novo pathway \nof nucleotide synthesis. Since myeloma cells cannot use the salvage pathway for nucleotide \nsynthesis due to the lack of HGPRTase enzyme, they cannot survive in the HAT medium. 609 \nSold by @itachibot Hybridoma technology is a method for producing large numbers of identical antibodies \n(monoclonal antibodies). Hybridomas are somatic cell hybrids produced by fusing the antibody-forming spleen cells with \nmyeloma cells. The resultant hybrid thus has both the antibody-producing ability of the B-cell and \nthe ability to multiply indefinitely of the myeloma. The following are the steps involved in hybridoma technology: • Mice are immunized with an antigen. After several weeks of immunization, blood samples are \nobtained from mice for measurement of serum antibodies. • When the antibody titer is high enough, mice are commonly boosted by injecting antigen \nwithout adjuvant intraperitoneally or intravenously. Then the mice are euthanized and \ntheir spleens removed for in vitro hybridoma cell production. • Fusing antibody-producing spleen cells, which have a limited life span with myeloma \ncells (derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable of \nunlimited growth. • The cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HAT \nmedium) which allows only the fused cells to survive in culture. • Monoclonal antibodies are then harvested.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q5_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q5_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -655,7 +655,7 @@
     },
     "correct_answer": "d",
     "explanation": "Real-time polymerase chain reaction (PCR) can be used to quantify the PCR by monitoring the \namplification process while the PCR is ongoing. Types of PCR: • Reverse transcriptase PCR- The enzyme reverse transcriptase (RT) is used to synthesize a \ncomplementary copy of DNA (cDNA) from RNA and this cDNA is then used as a template for \nPCR. • Real-time PCR- This helps quantify the PCR and gives an estimate of the pathogen DNA load in \nthe specimen. It uses fluorescent dyes or specific DNA probes. It is also known as qPCR \n(Quantitative PCR) • Multiplex PCR- Primers to more than one pathogen are used simultaneously and hence multiple \nproducts are obtained. 612 \nSold by @itachibot • Nested PCR- It involves the sequential use of two primer sets. The first primer set is used for \namplification and the amplicon obtained is then used as a target sequence for second \namplification. This ensures specificity.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q9_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q9_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -760,7 +760,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given clinical scenario and the peripheral smear showing sheathed microfilaria with two \nnuclei at the tail tip is suggestive of infection with Brugia malayi. Acute infection may manifest as acute adenolymphangitis which is characterized by high fever, \nlymphatic inflammation (lymphangitis and lymphadenitis) and transient local edema. The \nmost commonly affected lymph nodes are inguinal nodes followed by axillary nodes which \nbecome enlarged, painful and tender. The following are the characteristic features of microfilaria of Brugia malayi: • Smaller in size compared to microfilaria of W. bancrofti. • Shows kinks and secondary curves. • Cephalic space is longer. • Carries double stylets at the anterior end. • Nuclear column appears blurred in Giemsa-stained films. • Tail tip carries 2 distinct nuclei, one terminal and the other subterminal. The below image shows the microfilaria of Brugia malayi. 596 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q16_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q16_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -790,7 +790,7 @@
     },
     "correct_answer": "c",
     "explanation": "The clinical scenario and image showing sclerosing keratitis are suggestive of onchocerchiasis \n(river blindness). The drug of choice is ivermectin. It is caused by Onchocerca volvulus. It is also known as convoluted filaria or blinding filaria. The vector is blackfly (Simulium species) which breed in fast-flowing rivers, and therefore the \ndisease is most common along the course of rivers. Hence, it is also called river blindness. The usual presentation is formation of a subcutaneous nodule or onchocercoma. It is a firm \nnon-tender nodule arising from bony sites like scalp, elbow, ribs, and iliac crest. It is associated \nwith pruritus and rashes. 598 \nSold by @itachibot The microfilaria in the eyes cause photophobia and gradual loss of vision. The most severe \nmanifestation is sclerosing keratitis and chorioretinitis which causes blindness. It is the 2nd major \ninfective cause of blindness in the world after trachoma. Suramin and diethylcarbamazine (DEC) were used earlier but are not used nowadays. DEC \ndestroys microfilariae but usually causes Mazzotti reaction consisting of pruritus, \nrash, lymphadenopathy, fever, hypotension, and occasionally, eye damage. Note: Onchocerciasis is not endemic in India but sporadic cases have been reported from \nNorth-Eastern India.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q18_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q18_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -805,7 +805,7 @@
     },
     "correct_answer": "a",
     "explanation": "The given clinical scenario and the image showing Calabar swelling is suggestive of loiasis caused \nby Loa loa. Calabar swellings are temporary foci of inflammation that appear as Loa loa wanders through the \nsubcutaneous tissues. They are up to 3 cm in size and are also called fugitive swellings because \nthey disappear in a few days only to reappear elsewhere. Loa loa is transmitted by the bite of Chrysops species (deerflies). The infective form is the third \nstage microfilaria. After entry into human skin, it grows into an adult worm. The ocular manifestations occur when the worm reaches the subconjunctival tissue during its \nwanderings. They include: • Granuloma in bulbar conjunctiva • Painless edema of the eyelids • Proptosis. The image below shows Calabar swelling. The image below shows a live, adult Loa loa in the anterior chamber of the eye. 599 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q19_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q19_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -850,7 +850,7 @@
     },
     "correct_answer": "a",
     "explanation": "600 \nSold by @itachibot Parasite \nDefinitive host \nFirst intermediate host \nSecond intermediate ho \nst Diphyllobothri \num Humans \nCyclops \nCyclops and fish Paragonimus \nHumans \nSnail \nCrayfish and crab Fasciola \nSheep and hu \nmans Snail \nAquatic vegetations Brugia \nHumans \nMansonia mosquito \n- 601 \nSold by @itachibot Applied Microbiology",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q22_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q22_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -865,7 +865,7 @@
     },
     "correct_answer": "a",
     "explanation": "The rapid dipstick test is the method of choice for the diagnosis of kala-azar. The following tests are used for the laboratory diagnosis of kala-azar: • Rapid diagnostic tests - rK39 and dipstick test strip. • Parasitological diagnosis - demonstration of LD bodies on microscopy is confirmatory • Surveillance purposes - Aldehyde test of Napier 533 \nSold by @itachibot • Serological diagnosis - Rapid dipstick test, direct agglutination test, ELISA, indirect fluorescent \nantibody test • Assessing immune status - Leishmanin (Montenegro) test • Induration of  5 mm is considered positive • Usually becomes positive 4-6 weeks after onset of cutaneous leishmaniasis 534 \nSold by @itachibot Protozoology - Sporozoa",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q23_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q23_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1030,7 +1030,7 @@
     },
     "correct_answer": "a",
     "explanation": "Pour plate culture (quantitative test) is not used as an immediate test for screening of \nUTI. However, it is considered the best diagnostic test for confirmation of UTI due it’s high \nsensitivity and specificity. The screening tests for UTI are as follows: • Wet mount examination- It is done to demonstrate pus cells in urine. 613 \nSold by @itachibot • Leukocyte esterase test- It is a rapid and cheaper method and detects leukocyte esterases \nsecreted by pus cells present in urine. • Nitrate reduction test (Griess test)- Nitrate reducing bacteria like E. coli gives a positive result. • Catalase test- E. coli and other bacteria that produce the enzyme catalase give a positive result. Quantitative Culture: • Standardized loop technique • Pour plate method",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q11_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q11_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1210,7 +1210,7 @@
     },
     "correct_answer": "a",
     "explanation": "The rapid dipstick test is the method of choice for the diagnosis of kala-azar. The following tests are used for the laboratory diagnosis of kala-azar: • Rapid diagnostic tests - rK39 and dipstick test strip. • Parasitological diagnosis - demonstration of LD bodies on microscopy is confirmatory • Surveillance purposes - Aldehyde test of Napier 533 \nSold by @itachibot • Serological diagnosis - Rapid dipstick test, direct agglutination test, ELISA, indirect fluorescent \nantibody test • Assessing immune status - Leishmanin (Montenegro) test • Induration of  5 mm is considered positive • Usually becomes positive 4-6 weeks after onset of cutaneous leishmaniasis 534 \nSold by @itachibot Protozoology - Sporozoa",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q23_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q23_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1375,7 +1375,7 @@
     },
     "correct_answer": "a",
     "explanation": "Pour plate culture (quantitative test) is not used as an immediate test for screening of \nUTI. However, it is considered the best diagnostic test for confirmation of UTI due it’s high \nsensitivity and specificity. The screening tests for UTI are as follows: • Wet mount examination- It is done to demonstrate pus cells in urine. 613 \nSold by @itachibot • Leukocyte esterase test- It is a rapid and cheaper method and detects leukocyte esterases \nsecreted by pus cells present in urine. • Nitrate reduction test (Griess test)- Nitrate reducing bacteria like E. coli gives a positive result. • Catalase test- E. coli and other bacteria that produce the enzyme catalase give a positive result. Quantitative Culture: • Standardized loop technique • Pour plate method",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q11_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q11_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1435,7 +1435,7 @@
     },
     "correct_answer": "a",
     "explanation": "The image depicts the production of monoclonal antibodies by hybridoma technology. The following are the steps involved in hybridoma technology: • Mice are immunized with an antigen. After several weeks of immunization, blood samples are \nobtained from mice for measurement of serum antibodies. • When the antibody titer is high enough, mice are commonly boosted by injecting antigen \nwithout adjuvant intraperitoneally or intravenously. Then the mice are euthanized and their \nspleens removed for in vitro hybridoma cell production. • Fusing antibody-producing spleen cells, which have a limited life span with myeloma cells \n(derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable of \nunlimited growth. • The cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HAT \nmedium) which allows only the fused cells to survive in culture. • Monoclonal antibodies are then harvested.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q4_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q4_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1480,7 +1480,7 @@
     },
     "correct_answer": "b",
     "explanation": "The disc diffusion method for antibiotic susceptibility testing is applied in the Kirby-Bauer \nmethod. To perform Kirby-Bauer’s disc diffusion method, a suitable standard dilution of a broth culture of \nthe test bacterium is inoculated on the surface of a solid medium (Cation-adjusted Mueller-Hinton \nagar) as a lawn culture. After drying, various antibiotic discs are placed on its surface. Zones of \ninhibition around the disc are recorded and interpreted according to the zone diameters available \nin the tables of the Clinical and Laboratory Standards Institute (CLSI) guidelines. The results \nobtained are qualitative (resistant, sensitive, or partially sensitive). Laboratory testing for antibiotic sensitivity can be done by: • Diffusion method- Kirby-Bauer disc diffusion method, Stokes disc diffusion method • Dilution method- broth dilution method, agar dilution method • Combination of diffusion and dilution method- E–test (Epsilometer) The image below shows Kirby-Bauer disc diffusion method. 611 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q7_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q7_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1525,7 +1525,7 @@
     },
     "correct_answer": "d",
     "explanation": "The hemagglutination test is not based on the principle of antibody marking. When antibodies bind to antigens on the surface of red blood cells, the resultant clumping \nreaction is referred to as hemagglutination. It is routinely performed to type red blood cells in \nABO blood-typing. The image below shows hemagglutination. In ELISA, radioimmunoassay and immunofluorescence, the antigens or antibodies are labeled or \nmarked with enzymes, fluorescent dyes, etc. Note: If no hemagglutination occurs it means the patient’s serum has anti-haemagglutinin \nantibodies that bind to hemagglutinin and prevent the clumping reaction. This hemagglutination \ninhibition reaction is a method of detection of viruses and antiviral-antibodies and is used to \nmake a diagnosis of influenza.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q10_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q10_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1540,7 +1540,7 @@
     },
     "correct_answer": "a",
     "explanation": "Pour plate culture (quantitative test) is not used as an immediate test for screening of \nUTI. However, it is considered the best diagnostic test for confirmation of UTI due it’s high \nsensitivity and specificity. The screening tests for UTI are as follows: • Wet mount examination- It is done to demonstrate pus cells in urine. 613 \nSold by @itachibot • Leukocyte esterase test- It is a rapid and cheaper method and detects leukocyte esterases \nsecreted by pus cells present in urine. • Nitrate reduction test (Griess test)- Nitrate reducing bacteria like E. coli gives a positive result. • Catalase test- E. coli and other bacteria that produce the enzyme catalase give a positive result. Quantitative Culture: • Standardized loop technique • Pour plate method",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q11_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q11_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1600,7 +1600,7 @@
     },
     "correct_answer": "b",
     "explanation": "The above image shows a HbsAg card test kit which works on the principle \nof immunochromatography. The immunochromatographic membrane is used for antigen detection, while a nitrocellulose \nmembrane is used to absorb the antigen from a specimen. A coloured reaction appears directly on \nthe membrane with the sequential addition of conjugate followed by the substrate. In some cases, \nthe antigen is captured by a bound antibody directed against the antigen. These assays have the \nadvantage of being rapid and also frequently include a built-in internal control. 615 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q15_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q15_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1630,7 +1630,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given clinical scenario with a peripheral smear showing sheathed microfilaria with a pointed \ntail free of nuclei is suggestive of Wuchereria bancrofti. The third stage filariform larva is the \ninfective form. Wuchereria bancrofti infection is usually asymptomatic. The symptoms are due to obstruction of \nlymphatics by the filarial stage of adult worms. The lymphatic vessels of the male genitalia are most commonly affected in bancroftian filariasis, \nproducing episodic funiculitis, epididymitis, and orchitis. Adenolymphangitis of the extremities is \nless common. Hydrocele is the most common sign of chronic bancroftian filariasis, followed by lymphedema, \nelephantiasis, and chyluria. The swelling involves the whole leg, the whole arm, the scrotum, the \nvulva, or the breast. DEC provocation test is used to demonstrate microfilaria during the day. The image below shows the life cycle of Wuchereria bancrofti. 597 \nSold by @itachibot The image below shows the difference between microfilaria of various filarial nematodes.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q17_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q17_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1705,7 +1705,7 @@
     },
     "correct_answer": "b",
     "explanation": "Aminopterin is a folate antagonist present in the HAT medium that inhibits the de novo pathway \nof nucleotide synthesis. Since myeloma cells cannot use the salvage pathway for nucleotide \nsynthesis due to the lack of HGPRTase enzyme, they cannot survive in the HAT medium. 609 \nSold by @itachibot Hybridoma technology is a method for producing large numbers of identical antibodies \n(monoclonal antibodies). Hybridomas are somatic cell hybrids produced by fusing the antibody-forming spleen cells with \nmyeloma cells. The resultant hybrid thus has both the antibody-producing ability of the B-cell and \nthe ability to multiply indefinitely of the myeloma. The following are the steps involved in hybridoma technology: • Mice are immunized with an antigen. After several weeks of immunization, blood samples are \nobtained from mice for measurement of serum antibodies. • When the antibody titer is high enough, mice are commonly boosted by injecting antigen \nwithout adjuvant intraperitoneally or intravenously. Then the mice are euthanized and \ntheir spleens removed for in vitro hybridoma cell production. • Fusing antibody-producing spleen cells, which have a limited life span with myeloma \ncells (derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable of \nunlimited growth. • The cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HAT \nmedium) which allows only the fused cells to survive in culture. • Monoclonal antibodies are then harvested.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q5_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q5_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1735,7 +1735,7 @@
     },
     "correct_answer": "b",
     "explanation": "The disc diffusion method for antibiotic susceptibility testing is applied in the Kirby-Bauer \nmethod. To perform Kirby-Bauer’s disc diffusion method, a suitable standard dilution of a broth culture of \nthe test bacterium is inoculated on the surface of a solid medium (Cation-adjusted Mueller-Hinton \nagar) as a lawn culture. After drying, various antibiotic discs are placed on its surface. Zones of \ninhibition around the disc are recorded and interpreted according to the zone diameters available \nin the tables of the Clinical and Laboratory Standards Institute (CLSI) guidelines. The results \nobtained are qualitative (resistant, sensitive, or partially sensitive). Laboratory testing for antibiotic sensitivity can be done by: • Diffusion method- Kirby-Bauer disc diffusion method, Stokes disc diffusion method • Dilution method- broth dilution method, agar dilution method • Combination of diffusion and dilution method- E–test (Epsilometer) The image below shows Kirby-Bauer disc diffusion method. 611 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q7_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q7_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1795,7 +1795,7 @@
     },
     "correct_answer": "a",
     "explanation": "Pour plate culture (quantitative test) is not used as an immediate test for screening of \nUTI. However, it is considered the best diagnostic test for confirmation of UTI due it’s high \nsensitivity and specificity. The screening tests for UTI are as follows: • Wet mount examination- It is done to demonstrate pus cells in urine. 613 \nSold by @itachibot • Leukocyte esterase test- It is a rapid and cheaper method and detects leukocyte esterases \nsecreted by pus cells present in urine. • Nitrate reduction test (Griess test)- Nitrate reducing bacteria like E. coli gives a positive result. • Catalase test- E. coli and other bacteria that produce the enzyme catalase give a positive result. Quantitative Culture: • Standardized loop technique • Pour plate method",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q11_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q11_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1870,7 +1870,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given clinical scenario and the peripheral smear showing sheathed microfilaria with two \nnuclei at the tail tip is suggestive of infection with Brugia malayi. Acute infection may manifest as acute adenolymphangitis which is characterized by high fever, \nlymphatic inflammation (lymphangitis and lymphadenitis) and transient local edema. The \nmost commonly affected lymph nodes are inguinal nodes followed by axillary nodes which \nbecome enlarged, painful and tender. The following are the characteristic features of microfilaria of Brugia malayi: • Smaller in size compared to microfilaria of W. bancrofti. • Shows kinks and secondary curves. • Cephalic space is longer. • Carries double stylets at the anterior end. • Nuclear column appears blurred in Giemsa-stained films. • Tail tip carries 2 distinct nuclei, one terminal and the other subterminal. The below image shows the microfilaria of Brugia malayi. 596 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q16_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q16_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1885,7 +1885,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given clinical scenario with a peripheral smear showing sheathed microfilaria with a pointed \ntail free of nuclei is suggestive of Wuchereria bancrofti. The third stage filariform larva is the \ninfective form. Wuchereria bancrofti infection is usually asymptomatic. The symptoms are due to obstruction of \nlymphatics by the filarial stage of adult worms. The lymphatic vessels of the male genitalia are most commonly affected in bancroftian filariasis, \nproducing episodic funiculitis, epididymitis, and orchitis. Adenolymphangitis of the extremities is \nless common. Hydrocele is the most common sign of chronic bancroftian filariasis, followed by lymphedema, \nelephantiasis, and chyluria. The swelling involves the whole leg, the whole arm, the scrotum, the \nvulva, or the breast. DEC provocation test is used to demonstrate microfilaria during the day. The image below shows the life cycle of Wuchereria bancrofti. 597 \nSold by @itachibot The image below shows the difference between microfilaria of various filarial nematodes.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q17_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q17_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1900,7 +1900,7 @@
     },
     "correct_answer": "c",
     "explanation": "The clinical scenario and image showing sclerosing keratitis are suggestive of onchocerchiasis \n(river blindness). The drug of choice is ivermectin. It is caused by Onchocerca volvulus. It is also known as convoluted filaria or blinding filaria. The vector is blackfly (Simulium species) which breed in fast-flowing rivers, and therefore the \ndisease is most common along the course of rivers. Hence, it is also called river blindness. The usual presentation is formation of a subcutaneous nodule or onchocercoma. It is a firm \nnon-tender nodule arising from bony sites like scalp, elbow, ribs, and iliac crest. It is associated \nwith pruritus and rashes. 598 \nSold by @itachibot The microfilaria in the eyes cause photophobia and gradual loss of vision. The most severe \nmanifestation is sclerosing keratitis and chorioretinitis which causes blindness. It is the 2nd major \ninfective cause of blindness in the world after trachoma. Suramin and diethylcarbamazine (DEC) were used earlier but are not used nowadays. DEC \ndestroys microfilariae but usually causes Mazzotti reaction consisting of pruritus, \nrash, lymphadenopathy, fever, hypotension, and occasionally, eye damage. Note: Onchocerciasis is not endemic in India but sporadic cases have been reported from \nNorth-Eastern India.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q18_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q18_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1915,7 +1915,7 @@
     },
     "correct_answer": "a",
     "explanation": "The given clinical scenario and the image showing Calabar swelling is suggestive of loiasis caused \nby Loa loa. Calabar swellings are temporary foci of inflammation that appear as Loa loa wanders through the \nsubcutaneous tissues. They are up to 3 cm in size and are also called fugitive swellings because \nthey disappear in a few days only to reappear elsewhere. Loa loa is transmitted by the bite of Chrysops species (deerflies). The infective form is the third \nstage microfilaria. After entry into human skin, it grows into an adult worm. The ocular manifestations occur when the worm reaches the subconjunctival tissue during its \nwanderings. They include: • Granuloma in bulbar conjunctiva • Painless edema of the eyelids • Proptosis. The image below shows Calabar swelling. The image below shows a live, adult Loa loa in the anterior chamber of the eye. 599 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q19_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q19_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1930,7 +1930,7 @@
     },
     "correct_answer": "b",
     "explanation": "Eijkman test is also known as differential coliform test. Drinking water should be free of any pathogenic microorganisms. The presence of coliform \nbacteria in the water may indicate faecal pollution, while the detection of E.coli confirms it. The presumptive coliform test is done by the multiple tube technique. Following this, the Eijkman \ntest is done to confirm the presence of E. coli. They can grow at 44°C (faecal thermotolerant \nbacilli), ferment lactose and cause indole and gas production. Option A: Presumptive coliform count detects the probable number of coliform bacilli in water. It \ncan be positive due to the presence of organisms other than E.coli also. Option C: Colony counts provide an estimate of the general bacterial purity of water. Option D: Methylene blue reduction test is used to assess the bacterial contamination of milk.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q1_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q1_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -1945,7 +1945,7 @@
     },
     "correct_answer": "b",
     "explanation": "Recent fecal contamination of water is suggested by the presence of enterococcus (fecal \nstreptococci). Clostridium perfringens may be present for a long duration. If it is present in water, it suggests \nthat contamination is not recent. If Escherichia coli is detected, it is definitive proof of fecal contamination. However, it is \nnon-specific for suggesting the duration of the contamination.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q2_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q2_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2005,7 +2005,7 @@
     },
     "correct_answer": "c",
     "explanation": "Epsilometer (E-test) is both a diffusion and a dilution method of testing antibiotic sensitivity. It is a quantitative technique for determining the antimicrobial susceptibility (AST) and minimum \ninhibitory concentration (MIC) in µg/mL of gram-negative and gram-positive aerobic bacteria. 610 \nSold by @itachibot The antibiotic sensitivity tests are classified as follows: • Diffusion methods: Kirby–Bauer method, Stokes method • Dilution methods: Tube dilution method, Agar dilution method • Diffusion and dilution method: E–test (Epsilometer)",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q6_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q6_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2140,7 +2140,7 @@
     },
     "correct_answer": "b",
     "explanation": "The above image shows a HbsAg card test kit which works on the principle \nof immunochromatography. The immunochromatographic membrane is used for antigen detection, while a nitrocellulose \nmembrane is used to absorb the antigen from a specimen. A coloured reaction appears directly on \nthe membrane with the sequential addition of conjugate followed by the substrate. In some cases, \nthe antigen is captured by a bound antibody directed against the antigen. These assays have the \nadvantage of being rapid and also frequently include a built-in internal control. 615 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q15_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q15_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2170,7 +2170,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given clinical scenario with a peripheral smear showing sheathed microfilaria with a pointed \ntail free of nuclei is suggestive of Wuchereria bancrofti. The third stage filariform larva is the \ninfective form. Wuchereria bancrofti infection is usually asymptomatic. The symptoms are due to obstruction of \nlymphatics by the filarial stage of adult worms. The lymphatic vessels of the male genitalia are most commonly affected in bancroftian filariasis, \nproducing episodic funiculitis, epididymitis, and orchitis. Adenolymphangitis of the extremities is \nless common. Hydrocele is the most common sign of chronic bancroftian filariasis, followed by lymphedema, \nelephantiasis, and chyluria. The swelling involves the whole leg, the whole arm, the scrotum, the \nvulva, or the breast. DEC provocation test is used to demonstrate microfilaria during the day. The image below shows the life cycle of Wuchereria bancrofti. 597 \nSold by @itachibot The image below shows the difference between microfilaria of various filarial nematodes.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q17_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q17_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2245,7 +2245,7 @@
     },
     "correct_answer": "b",
     "explanation": "Aminopterin is a folate antagonist present in the HAT medium that inhibits the de novo pathway \nof nucleotide synthesis. Since myeloma cells cannot use the salvage pathway for nucleotide \nsynthesis due to the lack of HGPRTase enzyme, they cannot survive in the HAT medium. 609 \nSold by @itachibot Hybridoma technology is a method for producing large numbers of identical antibodies \n(monoclonal antibodies). Hybridomas are somatic cell hybrids produced by fusing the antibody-forming spleen cells with \nmyeloma cells. The resultant hybrid thus has both the antibody-producing ability of the B-cell and \nthe ability to multiply indefinitely of the myeloma. The following are the steps involved in hybridoma technology: • Mice are immunized with an antigen. After several weeks of immunization, blood samples are \nobtained from mice for measurement of serum antibodies. • When the antibody titer is high enough, mice are commonly boosted by injecting antigen \nwithout adjuvant intraperitoneally or intravenously. Then the mice are euthanized and \ntheir spleens removed for in vitro hybridoma cell production. • Fusing antibody-producing spleen cells, which have a limited life span with myeloma \ncells (derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable of \nunlimited growth. • The cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HAT \nmedium) which allows only the fused cells to survive in culture. • Monoclonal antibodies are then harvested.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q5_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q5_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2275,7 +2275,7 @@
     },
     "correct_answer": "b",
     "explanation": "The disc diffusion method for antibiotic susceptibility testing is applied in the Kirby-Bauer \nmethod. To perform Kirby-Bauer’s disc diffusion method, a suitable standard dilution of a broth culture of \nthe test bacterium is inoculated on the surface of a solid medium (Cation-adjusted Mueller-Hinton \nagar) as a lawn culture. After drying, various antibiotic discs are placed on its surface. Zones of \ninhibition around the disc are recorded and interpreted according to the zone diameters available \nin the tables of the Clinical and Laboratory Standards Institute (CLSI) guidelines. The results \nobtained are qualitative (resistant, sensitive, or partially sensitive). Laboratory testing for antibiotic sensitivity can be done by: • Diffusion method- Kirby-Bauer disc diffusion method, Stokes disc diffusion method • Dilution method- broth dilution method, agar dilution method • Combination of diffusion and dilution method- E–test (Epsilometer) The image below shows Kirby-Bauer disc diffusion method. 611 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q7_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q7_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2290,7 +2290,7 @@
     },
     "correct_answer": "a",
     "explanation": "Minimum inhibitory concentration (MIC) cannot be calculated using Kirby-Bauer's disk diffusion \nmethod and Stokes disk diffusion method as they are semi-quantitative methods. MIC is the lowest concentration of an antimicrobial agent that will inhibit the visible growth of a \nmicroorganism. Methods to determine MIC include: • Tube dilution method • Agar dilution method • E-test method",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q8_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q8_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2335,7 +2335,7 @@
     },
     "correct_answer": "a",
     "explanation": "Pour plate culture (quantitative test) is not used as an immediate test for screening of \nUTI. However, it is considered the best diagnostic test for confirmation of UTI due it’s high \nsensitivity and specificity. The screening tests for UTI are as follows: • Wet mount examination- It is done to demonstrate pus cells in urine. 613 \nSold by @itachibot • Leukocyte esterase test- It is a rapid and cheaper method and detects leukocyte esterases \nsecreted by pus cells present in urine. • Nitrate reduction test (Griess test)- Nitrate reducing bacteria like E. coli gives a positive result. • Catalase test- E. coli and other bacteria that produce the enzyme catalase give a positive result. Quantitative Culture: • Standardized loop technique • Pour plate method",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q11_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q11_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2350,7 +2350,7 @@
     },
     "correct_answer": "b",
     "explanation": "CLED (Cysteine lactose electrolyte-deficient) medium is preferred over MacConkey agar for the \nculture of organisms involved in urinary tract infections because it is less inhibitory and promotes \nthe growth of gram-positive bacteria (except  hemolytic streptococcus) and candida. It is used as an alternative to the combination of blood agar and MacConkey agar, for the \nprocessing of urine specimens. CLED medium is not similar to blood agar in the fact that it can prevent swarming of proteus. It is \nsimilar to MacConkey agar in that it differentiates between lactose fermenters and \nnon-fermenters.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q12_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q12_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2365,7 +2365,7 @@
     },
     "correct_answer": "c",
     "explanation": "From the given case scenario and image we can deduce that the most likely organism involved is \nEnterococcus faecalis. The image shows gram-positive cocci in chains, that are described as catalase negative. This helps \nrule out Staphylocococcus aureus and coagulase-negative staphylococcus. 614 \nSold by @itachibot Streptococcus viridans is usually sensitive to penicillin and vancomycin hence it is ruled out. The mechanism of vancomycin resistance seen in E. faecalis is the alteration of the \nD-alanyl–D-alanine chain in the cell wall.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q13_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q13_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2380,7 +2380,7 @@
     },
     "correct_answer": "b",
     "explanation": "Bacillus anthracis which causes anthrax is categorized under category A bioterrorism agent.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q14_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q14_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2410,7 +2410,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given clinical scenario and the peripheral smear showing sheathed microfilaria with two \nnuclei at the tail tip is suggestive of infection with Brugia malayi. Acute infection may manifest as acute adenolymphangitis which is characterized by high fever, \nlymphatic inflammation (lymphangitis and lymphadenitis) and transient local edema. The \nmost commonly affected lymph nodes are inguinal nodes followed by axillary nodes which \nbecome enlarged, painful and tender. The following are the characteristic features of microfilaria of Brugia malayi: • Smaller in size compared to microfilaria of W. bancrofti. • Shows kinks and secondary curves. • Cephalic space is longer. • Carries double stylets at the anterior end. • Nuclear column appears blurred in Giemsa-stained films. • Tail tip carries 2 distinct nuclei, one terminal and the other subterminal. The below image shows the microfilaria of Brugia malayi. 596 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q16_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q16_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2425,7 +2425,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given clinical scenario with a peripheral smear showing sheathed microfilaria with a pointed \ntail free of nuclei is suggestive of Wuchereria bancrofti. The third stage filariform larva is the \ninfective form. Wuchereria bancrofti infection is usually asymptomatic. The symptoms are due to obstruction of \nlymphatics by the filarial stage of adult worms. The lymphatic vessels of the male genitalia are most commonly affected in bancroftian filariasis, \nproducing episodic funiculitis, epididymitis, and orchitis. Adenolymphangitis of the extremities is \nless common. Hydrocele is the most common sign of chronic bancroftian filariasis, followed by lymphedema, \nelephantiasis, and chyluria. The swelling involves the whole leg, the whole arm, the scrotum, the \nvulva, or the breast. DEC provocation test is used to demonstrate microfilaria during the day. The image below shows the life cycle of Wuchereria bancrofti. 597 \nSold by @itachibot The image below shows the difference between microfilaria of various filarial nematodes.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q17_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q17_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2440,7 +2440,7 @@
     },
     "correct_answer": "c",
     "explanation": "The clinical scenario and image showing sclerosing keratitis are suggestive of onchocerchiasis \n(river blindness). The drug of choice is ivermectin. It is caused by Onchocerca volvulus. It is also known as convoluted filaria or blinding filaria. The vector is blackfly (Simulium species) which breed in fast-flowing rivers, and therefore the \ndisease is most common along the course of rivers. Hence, it is also called river blindness. The usual presentation is formation of a subcutaneous nodule or onchocercoma. It is a firm \nnon-tender nodule arising from bony sites like scalp, elbow, ribs, and iliac crest. It is associated \nwith pruritus and rashes. 598 \nSold by @itachibot The microfilaria in the eyes cause photophobia and gradual loss of vision. The most severe \nmanifestation is sclerosing keratitis and chorioretinitis which causes blindness. It is the 2nd major \ninfective cause of blindness in the world after trachoma. Suramin and diethylcarbamazine (DEC) were used earlier but are not used nowadays. DEC \ndestroys microfilariae but usually causes Mazzotti reaction consisting of pruritus, \nrash, lymphadenopathy, fever, hypotension, and occasionally, eye damage. Note: Onchocerciasis is not endemic in India but sporadic cases have been reported from \nNorth-Eastern India.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q18_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q18_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2455,7 +2455,7 @@
     },
     "correct_answer": "a",
     "explanation": "The given clinical scenario and the image showing Calabar swelling is suggestive of loiasis caused \nby Loa loa. Calabar swellings are temporary foci of inflammation that appear as Loa loa wanders through the \nsubcutaneous tissues. They are up to 3 cm in size and are also called fugitive swellings because \nthey disappear in a few days only to reappear elsewhere. Loa loa is transmitted by the bite of Chrysops species (deerflies). The infective form is the third \nstage microfilaria. After entry into human skin, it grows into an adult worm. The ocular manifestations occur when the worm reaches the subconjunctival tissue during its \nwanderings. They include: • Granuloma in bulbar conjunctiva • Painless edema of the eyelids • Proptosis. The image below shows Calabar swelling. The image below shows a live, adult Loa loa in the anterior chamber of the eye. 599 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q19_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q19_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2470,7 +2470,7 @@
     },
     "correct_answer": "a",
     "explanation": "Tropical pulmonary eosinophilia is also known as Weingarten syndrome. Tropical eosinophilia occurs as a result of hypersensitivity reaction to microfilarial antigens and \nnot directly due to lymphatic involvement. It is a manifestation of occult filariasis \n(Meyer's-Kouwenaar syndrome). Clinical features of occult filariasis include massive eosinophilia and hepatosplenomegaly. Synonyms of tropical pulmonary eosinophilia include - • Weingarten syndrome • Pseudo-tuberculosis of the lung • Eosinophilic pseudo-leukemia • Tropical eosinophilic asthma • Frimodt-Moller and Barton's syndrome",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q20_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q20_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2530,7 +2530,7 @@
     },
     "correct_answer": "a",
     "explanation": "The image depicts the production of monoclonal antibodies by hybridoma technology. The following are the steps involved in hybridoma technology: • Mice are immunized with an antigen. After several weeks of immunization, blood samples are \nobtained from mice for measurement of serum antibodies. • When the antibody titer is high enough, mice are commonly boosted by injecting antigen \nwithout adjuvant intraperitoneally or intravenously. Then the mice are euthanized and their \nspleens removed for in vitro hybridoma cell production. • Fusing antibody-producing spleen cells, which have a limited life span with myeloma cells \n(derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable of \nunlimited growth. • The cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HAT \nmedium) which allows only the fused cells to survive in culture. • Monoclonal antibodies are then harvested.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q4_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q4_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2545,7 +2545,7 @@
     },
     "correct_answer": "b",
     "explanation": "Aminopterin is a folate antagonist present in the HAT medium that inhibits the de novo pathway \nof nucleotide synthesis. Since myeloma cells cannot use the salvage pathway for nucleotide \nsynthesis due to the lack of HGPRTase enzyme, they cannot survive in the HAT medium. 609 \nSold by @itachibot Hybridoma technology is a method for producing large numbers of identical antibodies \n(monoclonal antibodies). Hybridomas are somatic cell hybrids produced by fusing the antibody-forming spleen cells with \nmyeloma cells. The resultant hybrid thus has both the antibody-producing ability of the B-cell and \nthe ability to multiply indefinitely of the myeloma. The following are the steps involved in hybridoma technology: • Mice are immunized with an antigen. After several weeks of immunization, blood samples are \nobtained from mice for measurement of serum antibodies. • When the antibody titer is high enough, mice are commonly boosted by injecting antigen \nwithout adjuvant intraperitoneally or intravenously. Then the mice are euthanized and \ntheir spleens removed for in vitro hybridoma cell production. • Fusing antibody-producing spleen cells, which have a limited life span with myeloma \ncells (derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable of \nunlimited growth. • The cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HAT \nmedium) which allows only the fused cells to survive in culture. • Monoclonal antibodies are then harvested.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q5_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q5_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2560,7 +2560,7 @@
     },
     "correct_answer": "c",
     "explanation": "Epsilometer (E-test) is both a diffusion and a dilution method of testing antibiotic sensitivity. It is a quantitative technique for determining the antimicrobial susceptibility (AST) and minimum \ninhibitory concentration (MIC) in µg/mL of gram-negative and gram-positive aerobic bacteria. 610 \nSold by @itachibot The antibiotic sensitivity tests are classified as follows: • Diffusion methods: Kirby–Bauer method, Stokes method • Dilution methods: Tube dilution method, Agar dilution method • Diffusion and dilution method: E–test (Epsilometer)",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q6_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q6_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2575,7 +2575,7 @@
     },
     "correct_answer": "b",
     "explanation": "The disc diffusion method for antibiotic susceptibility testing is applied in the Kirby-Bauer \nmethod. To perform Kirby-Bauer’s disc diffusion method, a suitable standard dilution of a broth culture of \nthe test bacterium is inoculated on the surface of a solid medium (Cation-adjusted Mueller-Hinton \nagar) as a lawn culture. After drying, various antibiotic discs are placed on its surface. Zones of \ninhibition around the disc are recorded and interpreted according to the zone diameters available \nin the tables of the Clinical and Laboratory Standards Institute (CLSI) guidelines. The results \nobtained are qualitative (resistant, sensitive, or partially sensitive). Laboratory testing for antibiotic sensitivity can be done by: • Diffusion method- Kirby-Bauer disc diffusion method, Stokes disc diffusion method • Dilution method- broth dilution method, agar dilution method • Combination of diffusion and dilution method- E–test (Epsilometer) The image below shows Kirby-Bauer disc diffusion method. 611 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q7_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q7_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2605,7 +2605,7 @@
     },
     "correct_answer": "d",
     "explanation": "Real-time polymerase chain reaction (PCR) can be used to quantify the PCR by monitoring the \namplification process while the PCR is ongoing. Types of PCR: • Reverse transcriptase PCR- The enzyme reverse transcriptase (RT) is used to synthesize a \ncomplementary copy of DNA (cDNA) from RNA and this cDNA is then used as a template for \nPCR. • Real-time PCR- This helps quantify the PCR and gives an estimate of the pathogen DNA load in \nthe specimen. It uses fluorescent dyes or specific DNA probes. It is also known as qPCR \n(Quantitative PCR) • Multiplex PCR- Primers to more than one pathogen are used simultaneously and hence multiple \nproducts are obtained. 612 \nSold by @itachibot • Nested PCR- It involves the sequential use of two primer sets. The first primer set is used for \namplification and the amplicon obtained is then used as a target sequence for second \namplification. This ensures specificity.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q9_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q9_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2620,7 +2620,7 @@
     },
     "correct_answer": "d",
     "explanation": "The hemagglutination test is not based on the principle of antibody marking. When antibodies bind to antigens on the surface of red blood cells, the resultant clumping \nreaction is referred to as hemagglutination. It is routinely performed to type red blood cells in \nABO blood-typing. The image below shows hemagglutination. In ELISA, radioimmunoassay and immunofluorescence, the antigens or antibodies are labeled or \nmarked with enzymes, fluorescent dyes, etc. Note: If no hemagglutination occurs it means the patient’s serum has anti-haemagglutinin \nantibodies that bind to hemagglutinin and prevent the clumping reaction. This hemagglutination \ninhibition reaction is a method of detection of viruses and antiviral-antibodies and is used to \nmake a diagnosis of influenza.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q10_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q10_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2680,7 +2680,7 @@
     },
     "correct_answer": "b",
     "explanation": "Bacillus anthracis which causes anthrax is categorized under category A bioterrorism agent.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q14_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q14_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2785,7 +2785,7 @@
     },
     "correct_answer": "b",
     "explanation": "The disc diffusion method for antibiotic susceptibility testing is applied in the Kirby-Bauer \nmethod. To perform Kirby-Bauer’s disc diffusion method, a suitable standard dilution of a broth culture of \nthe test bacterium is inoculated on the surface of a solid medium (Cation-adjusted Mueller-Hinton \nagar) as a lawn culture. After drying, various antibiotic discs are placed on its surface. Zones of \ninhibition around the disc are recorded and interpreted according to the zone diameters available \nin the tables of the Clinical and Laboratory Standards Institute (CLSI) guidelines. The results \nobtained are qualitative (resistant, sensitive, or partially sensitive). Laboratory testing for antibiotic sensitivity can be done by: • Diffusion method- Kirby-Bauer disc diffusion method, Stokes disc diffusion method • Dilution method- broth dilution method, agar dilution method • Combination of diffusion and dilution method- E–test (Epsilometer) The image below shows Kirby-Bauer disc diffusion method. 611 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q7_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q7_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2935,7 +2935,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given clinical scenario with a peripheral smear showing sheathed microfilaria with a pointed \ntail free of nuclei is suggestive of Wuchereria bancrofti. The third stage filariform larva is the \ninfective form. Wuchereria bancrofti infection is usually asymptomatic. The symptoms are due to obstruction of \nlymphatics by the filarial stage of adult worms. The lymphatic vessels of the male genitalia are most commonly affected in bancroftian filariasis, \nproducing episodic funiculitis, epididymitis, and orchitis. Adenolymphangitis of the extremities is \nless common. Hydrocele is the most common sign of chronic bancroftian filariasis, followed by lymphedema, \nelephantiasis, and chyluria. The swelling involves the whole leg, the whole arm, the scrotum, the \nvulva, or the breast. DEC provocation test is used to demonstrate microfilaria during the day. The image below shows the life cycle of Wuchereria bancrofti. 597 \nSold by @itachibot The image below shows the difference between microfilaria of various filarial nematodes.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q17_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q17_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2950,7 +2950,7 @@
     },
     "correct_answer": "b",
     "explanation": "Eijkman test is also known as differential coliform test. Drinking water should be free of any pathogenic microorganisms. The presence of coliform \nbacteria in the water may indicate faecal pollution, while the detection of E.coli confirms it. The presumptive coliform test is done by the multiple tube technique. Following this, the Eijkman \ntest is done to confirm the presence of E. coli. They can grow at 44°C (faecal thermotolerant \nbacilli), ferment lactose and cause indole and gas production. Option A: Presumptive coliform count detects the probable number of coliform bacilli in water. It \ncan be positive due to the presence of organisms other than E.coli also. Option C: Colony counts provide an estimate of the general bacterial purity of water. Option D: Methylene blue reduction test is used to assess the bacterial contamination of milk.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q1_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q1_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -2995,7 +2995,7 @@
     },
     "correct_answer": "a",
     "explanation": "The image depicts the production of monoclonal antibodies by hybridoma technology. The following are the steps involved in hybridoma technology: • Mice are immunized with an antigen. After several weeks of immunization, blood samples are \nobtained from mice for measurement of serum antibodies. • When the antibody titer is high enough, mice are commonly boosted by injecting antigen \nwithout adjuvant intraperitoneally or intravenously. Then the mice are euthanized and their \nspleens removed for in vitro hybridoma cell production. • Fusing antibody-producing spleen cells, which have a limited life span with myeloma cells \n(derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable of \nunlimited growth. • The cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HAT \nmedium) which allows only the fused cells to survive in culture. • Monoclonal antibodies are then harvested.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q4_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q4_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3025,7 +3025,7 @@
     },
     "correct_answer": "c",
     "explanation": "Epsilometer (E-test) is both a diffusion and a dilution method of testing antibiotic sensitivity. It is a quantitative technique for determining the antimicrobial susceptibility (AST) and minimum \ninhibitory concentration (MIC) in µg/mL of gram-negative and gram-positive aerobic bacteria. 610 \nSold by @itachibot The antibiotic sensitivity tests are classified as follows: • Diffusion methods: Kirby–Bauer method, Stokes method • Dilution methods: Tube dilution method, Agar dilution method • Diffusion and dilution method: E–test (Epsilometer)",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q6_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q6_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3055,7 +3055,7 @@
     },
     "correct_answer": "a",
     "explanation": "Minimum inhibitory concentration (MIC) cannot be calculated using Kirby-Bauer's disk diffusion \nmethod and Stokes disk diffusion method as they are semi-quantitative methods. MIC is the lowest concentration of an antimicrobial agent that will inhibit the visible growth of a \nmicroorganism. Methods to determine MIC include: • Tube dilution method • Agar dilution method • E-test method",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q8_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q8_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3070,7 +3070,7 @@
     },
     "correct_answer": "d",
     "explanation": "Real-time polymerase chain reaction (PCR) can be used to quantify the PCR by monitoring the \namplification process while the PCR is ongoing. Types of PCR: • Reverse transcriptase PCR- The enzyme reverse transcriptase (RT) is used to synthesize a \ncomplementary copy of DNA (cDNA) from RNA and this cDNA is then used as a template for \nPCR. • Real-time PCR- This helps quantify the PCR and gives an estimate of the pathogen DNA load in \nthe specimen. It uses fluorescent dyes or specific DNA probes. It is also known as qPCR \n(Quantitative PCR) • Multiplex PCR- Primers to more than one pathogen are used simultaneously and hence multiple \nproducts are obtained. 612 \nSold by @itachibot • Nested PCR- It involves the sequential use of two primer sets. The first primer set is used for \namplification and the amplicon obtained is then used as a target sequence for second \namplification. This ensures specificity.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q9_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q9_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3085,7 +3085,7 @@
     },
     "correct_answer": "d",
     "explanation": "The hemagglutination test is not based on the principle of antibody marking. When antibodies bind to antigens on the surface of red blood cells, the resultant clumping \nreaction is referred to as hemagglutination. It is routinely performed to type red blood cells in \nABO blood-typing. The image below shows hemagglutination. In ELISA, radioimmunoassay and immunofluorescence, the antigens or antibodies are labeled or \nmarked with enzymes, fluorescent dyes, etc. Note: If no hemagglutination occurs it means the patient’s serum has anti-haemagglutinin \nantibodies that bind to hemagglutinin and prevent the clumping reaction. This hemagglutination \ninhibition reaction is a method of detection of viruses and antiviral-antibodies and is used to \nmake a diagnosis of influenza.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q10_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q10_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3100,7 +3100,7 @@
     },
     "correct_answer": "a",
     "explanation": "Pour plate culture (quantitative test) is not used as an immediate test for screening of \nUTI. However, it is considered the best diagnostic test for confirmation of UTI due it’s high \nsensitivity and specificity. The screening tests for UTI are as follows: • Wet mount examination- It is done to demonstrate pus cells in urine. 613 \nSold by @itachibot • Leukocyte esterase test- It is a rapid and cheaper method and detects leukocyte esterases \nsecreted by pus cells present in urine. • Nitrate reduction test (Griess test)- Nitrate reducing bacteria like E. coli gives a positive result. • Catalase test- E. coli and other bacteria that produce the enzyme catalase give a positive result. Quantitative Culture: • Standardized loop technique • Pour plate method",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q11_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q11_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3115,7 +3115,7 @@
     },
     "correct_answer": "b",
     "explanation": "CLED (Cysteine lactose electrolyte-deficient) medium is preferred over MacConkey agar for the \nculture of organisms involved in urinary tract infections because it is less inhibitory and promotes \nthe growth of gram-positive bacteria (except  hemolytic streptococcus) and candida. It is used as an alternative to the combination of blood agar and MacConkey agar, for the \nprocessing of urine specimens. CLED medium is not similar to blood agar in the fact that it can prevent swarming of proteus. It is \nsimilar to MacConkey agar in that it differentiates between lactose fermenters and \nnon-fermenters.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q12_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q12_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3130,7 +3130,7 @@
     },
     "correct_answer": "c",
     "explanation": "From the given case scenario and image we can deduce that the most likely organism involved is \nEnterococcus faecalis. The image shows gram-positive cocci in chains, that are described as catalase negative. This helps \nrule out Staphylocococcus aureus and coagulase-negative staphylococcus. 614 \nSold by @itachibot Streptococcus viridans is usually sensitive to penicillin and vancomycin hence it is ruled out. The mechanism of vancomycin resistance seen in E. faecalis is the alteration of the \nD-alanyl–D-alanine chain in the cell wall.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q13_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q13_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3160,7 +3160,7 @@
     },
     "correct_answer": "b",
     "explanation": "The above image shows a HbsAg card test kit which works on the principle \nof immunochromatography. The immunochromatographic membrane is used for antigen detection, while a nitrocellulose \nmembrane is used to absorb the antigen from a specimen. A coloured reaction appears directly on \nthe membrane with the sequential addition of conjugate followed by the substrate. In some cases, \nthe antigen is captured by a bound antibody directed against the antigen. These assays have the \nadvantage of being rapid and also frequently include a built-in internal control. 615 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q15_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q15_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3190,7 +3190,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given clinical scenario with a peripheral smear showing sheathed microfilaria with a pointed \ntail free of nuclei is suggestive of Wuchereria bancrofti. The third stage filariform larva is the \ninfective form. Wuchereria bancrofti infection is usually asymptomatic. The symptoms are due to obstruction of \nlymphatics by the filarial stage of adult worms. The lymphatic vessels of the male genitalia are most commonly affected in bancroftian filariasis, \nproducing episodic funiculitis, epididymitis, and orchitis. Adenolymphangitis of the extremities is \nless common. Hydrocele is the most common sign of chronic bancroftian filariasis, followed by lymphedema, \nelephantiasis, and chyluria. The swelling involves the whole leg, the whole arm, the scrotum, the \nvulva, or the breast. DEC provocation test is used to demonstrate microfilaria during the day. The image below shows the life cycle of Wuchereria bancrofti. 597 \nSold by @itachibot The image below shows the difference between microfilaria of various filarial nematodes.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q17_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q17_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3205,7 +3205,7 @@
     },
     "correct_answer": "c",
     "explanation": "The clinical scenario and image showing sclerosing keratitis are suggestive of onchocerchiasis \n(river blindness). The drug of choice is ivermectin. It is caused by Onchocerca volvulus. It is also known as convoluted filaria or blinding filaria. The vector is blackfly (Simulium species) which breed in fast-flowing rivers, and therefore the \ndisease is most common along the course of rivers. Hence, it is also called river blindness. The usual presentation is formation of a subcutaneous nodule or onchocercoma. It is a firm \nnon-tender nodule arising from bony sites like scalp, elbow, ribs, and iliac crest. It is associated \nwith pruritus and rashes. 598 \nSold by @itachibot The microfilaria in the eyes cause photophobia and gradual loss of vision. The most severe \nmanifestation is sclerosing keratitis and chorioretinitis which causes blindness. It is the 2nd major \ninfective cause of blindness in the world after trachoma. Suramin and diethylcarbamazine (DEC) were used earlier but are not used nowadays. DEC \ndestroys microfilariae but usually causes Mazzotti reaction consisting of pruritus, \nrash, lymphadenopathy, fever, hypotension, and occasionally, eye damage. Note: Onchocerciasis is not endemic in India but sporadic cases have been reported from \nNorth-Eastern India.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q18_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q18_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3220,7 +3220,7 @@
     },
     "correct_answer": "a",
     "explanation": "The given clinical scenario and the image showing Calabar swelling is suggestive of loiasis caused \nby Loa loa. Calabar swellings are temporary foci of inflammation that appear as Loa loa wanders through the \nsubcutaneous tissues. They are up to 3 cm in size and are also called fugitive swellings because \nthey disappear in a few days only to reappear elsewhere. Loa loa is transmitted by the bite of Chrysops species (deerflies). The infective form is the third \nstage microfilaria. After entry into human skin, it grows into an adult worm. The ocular manifestations occur when the worm reaches the subconjunctival tissue during its \nwanderings. They include: • Granuloma in bulbar conjunctiva • Painless edema of the eyelids • Proptosis. The image below shows Calabar swelling. The image below shows a live, adult Loa loa in the anterior chamber of the eye. 599 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q19_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q19_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3235,7 +3235,7 @@
     },
     "correct_answer": "a",
     "explanation": "Tropical pulmonary eosinophilia is also known as Weingarten syndrome. Tropical eosinophilia occurs as a result of hypersensitivity reaction to microfilarial antigens and \nnot directly due to lymphatic involvement. It is a manifestation of occult filariasis \n(Meyer's-Kouwenaar syndrome). Clinical features of occult filariasis include massive eosinophilia and hepatosplenomegaly. Synonyms of tropical pulmonary eosinophilia include - • Weingarten syndrome • Pseudo-tuberculosis of the lung • Eosinophilic pseudo-leukemia • Tropical eosinophilic asthma • Frimodt-Moller and Barton's syndrome",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q20_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q20_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3250,7 +3250,7 @@
     },
     "correct_answer": "c",
     "explanation": "Dracunculus medinensis is known as serpent worm. It is a viviparous nematode. This has been eradicated from India and all of the southeast Asian region in the year 2000.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q21_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q21_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3265,7 +3265,7 @@
     },
     "correct_answer": "a",
     "explanation": "600 \nSold by @itachibot Parasite \nDefinitive host \nFirst intermediate host \nSecond intermediate ho \nst Diphyllobothri \num Humans \nCyclops \nCyclops and fish Paragonimus \nHumans \nSnail \nCrayfish and crab Fasciola \nSheep and hu \nmans Snail \nAquatic vegetations Brugia \nHumans \nMansonia mosquito \n- 601 \nSold by @itachibot Applied Microbiology",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q22_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q22_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3280,7 +3280,7 @@
     },
     "correct_answer": "a",
     "explanation": "The rapid dipstick test is the method of choice for the diagnosis of kala-azar. The following tests are used for the laboratory diagnosis of kala-azar: • Rapid diagnostic tests - rK39 and dipstick test strip. • Parasitological diagnosis - demonstration of LD bodies on microscopy is confirmatory • Surveillance purposes - Aldehyde test of Napier 533 \nSold by @itachibot • Serological diagnosis - Rapid dipstick test, direct agglutination test, ELISA, indirect fluorescent \nantibody test • Assessing immune status - Leishmanin (Montenegro) test • Induration of  5 mm is considered positive • Usually becomes positive 4-6 weeks after onset of cutaneous leishmaniasis 534 \nSold by @itachibot Protozoology - Sporozoa",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q23_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q23_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3295,7 +3295,7 @@
     },
     "correct_answer": "b",
     "explanation": "Eijkman test is also known as differential coliform test. Drinking water should be free of any pathogenic microorganisms. The presence of coliform \nbacteria in the water may indicate faecal pollution, while the detection of E.coli confirms it. The presumptive coliform test is done by the multiple tube technique. Following this, the Eijkman \ntest is done to confirm the presence of E. coli. They can grow at 44°C (faecal thermotolerant \nbacilli), ferment lactose and cause indole and gas production. Option A: Presumptive coliform count detects the probable number of coliform bacilli in water. It \ncan be positive due to the presence of organisms other than E.coli also. Option C: Colony counts provide an estimate of the general bacterial purity of water. Option D: Methylene blue reduction test is used to assess the bacterial contamination of milk.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q1_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q1_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3355,7 +3355,7 @@
     },
     "correct_answer": "b",
     "explanation": "Aminopterin is a folate antagonist present in the HAT medium that inhibits the de novo pathway \nof nucleotide synthesis. Since myeloma cells cannot use the salvage pathway for nucleotide \nsynthesis due to the lack of HGPRTase enzyme, they cannot survive in the HAT medium. 609 \nSold by @itachibot Hybridoma technology is a method for producing large numbers of identical antibodies \n(monoclonal antibodies). Hybridomas are somatic cell hybrids produced by fusing the antibody-forming spleen cells with \nmyeloma cells. The resultant hybrid thus has both the antibody-producing ability of the B-cell and \nthe ability to multiply indefinitely of the myeloma. The following are the steps involved in hybridoma technology: • Mice are immunized with an antigen. After several weeks of immunization, blood samples are \nobtained from mice for measurement of serum antibodies. • When the antibody titer is high enough, mice are commonly boosted by injecting antigen \nwithout adjuvant intraperitoneally or intravenously. Then the mice are euthanized and \ntheir spleens removed for in vitro hybridoma cell production. • Fusing antibody-producing spleen cells, which have a limited life span with myeloma \ncells (derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable of \nunlimited growth. • The cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HAT \nmedium) which allows only the fused cells to survive in culture. • Monoclonal antibodies are then harvested.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q5_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q5_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3370,7 +3370,7 @@
     },
     "correct_answer": "c",
     "explanation": "Epsilometer (E-test) is both a diffusion and a dilution method of testing antibiotic sensitivity. It is a quantitative technique for determining the antimicrobial susceptibility (AST) and minimum \ninhibitory concentration (MIC) in µg/mL of gram-negative and gram-positive aerobic bacteria. 610 \nSold by @itachibot The antibiotic sensitivity tests are classified as follows: • Diffusion methods: Kirby–Bauer method, Stokes method • Dilution methods: Tube dilution method, Agar dilution method • Diffusion and dilution method: E–test (Epsilometer)",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q6_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q6_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3400,7 +3400,7 @@
     },
     "correct_answer": "a",
     "explanation": "Minimum inhibitory concentration (MIC) cannot be calculated using Kirby-Bauer's disk diffusion \nmethod and Stokes disk diffusion method as they are semi-quantitative methods. MIC is the lowest concentration of an antimicrobial agent that will inhibit the visible growth of a \nmicroorganism. Methods to determine MIC include: • Tube dilution method • Agar dilution method • E-test method",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q8_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q8_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3445,7 +3445,7 @@
     },
     "correct_answer": "a",
     "explanation": "Pour plate culture (quantitative test) is not used as an immediate test for screening of \nUTI. However, it is considered the best diagnostic test for confirmation of UTI due it’s high \nsensitivity and specificity. The screening tests for UTI are as follows: • Wet mount examination- It is done to demonstrate pus cells in urine. 613 \nSold by @itachibot • Leukocyte esterase test- It is a rapid and cheaper method and detects leukocyte esterases \nsecreted by pus cells present in urine. • Nitrate reduction test (Griess test)- Nitrate reducing bacteria like E. coli gives a positive result. • Catalase test- E. coli and other bacteria that produce the enzyme catalase give a positive result. Quantitative Culture: • Standardized loop technique • Pour plate method",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q11_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q11_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3460,7 +3460,7 @@
     },
     "correct_answer": "b",
     "explanation": "CLED (Cysteine lactose electrolyte-deficient) medium is preferred over MacConkey agar for the \nculture of organisms involved in urinary tract infections because it is less inhibitory and promotes \nthe growth of gram-positive bacteria (except  hemolytic streptococcus) and candida. It is used as an alternative to the combination of blood agar and MacConkey agar, for the \nprocessing of urine specimens. CLED medium is not similar to blood agar in the fact that it can prevent swarming of proteus. It is \nsimilar to MacConkey agar in that it differentiates between lactose fermenters and \nnon-fermenters.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q12_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q12_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3475,7 +3475,7 @@
     },
     "correct_answer": "c",
     "explanation": "From the given case scenario and image we can deduce that the most likely organism involved is \nEnterococcus faecalis. The image shows gram-positive cocci in chains, that are described as catalase negative. This helps \nrule out Staphylocococcus aureus and coagulase-negative staphylococcus. 614 \nSold by @itachibot Streptococcus viridans is usually sensitive to penicillin and vancomycin hence it is ruled out. The mechanism of vancomycin resistance seen in E. faecalis is the alteration of the \nD-alanyl–D-alanine chain in the cell wall.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q13_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q13_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3490,7 +3490,7 @@
     },
     "correct_answer": "b",
     "explanation": "Bacillus anthracis which causes anthrax is categorized under category A bioterrorism agent.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q14_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q14_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3520,7 +3520,7 @@
     },
     "correct_answer": "b",
     "explanation": "Recent fecal contamination of water is suggested by the presence of enterococcus (fecal \nstreptococci). Clostridium perfringens may be present for a long duration. If it is present in water, it suggests \nthat contamination is not recent. If Escherichia coli is detected, it is definitive proof of fecal contamination. However, it is \nnon-specific for suggesting the duration of the contamination.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q2_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q2_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3535,7 +3535,7 @@
     },
     "correct_answer": "d",
     "explanation": "Pasteurization is not used for the bacteriological examination of milk. Pasteurization is the process of applying heat, to milk, for a specified period for the purpose of \nkilling pathogenic bacteria. There are two methods: holder method and flash method. Option A: Methylene blue reduction test depends on the reduction of methylene blue by bacteria \nin milk when incubated at 37 °C in complete darkness. Option B: Resazurin test is similar to methylene blue reduction test, but the dye resazurin on \nreduction passes through a series of colour changes from blue to pink to colourless. The shade of \ncolour after incubation with milk for a particular period of time depends on the degree of \ncontamination. 608 \nSold by @itachibot Option C: Phosphatase test is used to check whether milk has been pasteurised. Positive test after \npasteurisation of milk shows contamination after pasteurisation.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q3_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q3_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3550,7 +3550,7 @@
     },
     "correct_answer": "a",
     "explanation": "The image depicts the production of monoclonal antibodies by hybridoma technology. The following are the steps involved in hybridoma technology: • Mice are immunized with an antigen. After several weeks of immunization, blood samples are \nobtained from mice for measurement of serum antibodies. • When the antibody titer is high enough, mice are commonly boosted by injecting antigen \nwithout adjuvant intraperitoneally or intravenously. Then the mice are euthanized and their \nspleens removed for in vitro hybridoma cell production. • Fusing antibody-producing spleen cells, which have a limited life span with myeloma cells \n(derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable of \nunlimited growth. • The cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HAT \nmedium) which allows only the fused cells to survive in culture. • Monoclonal antibodies are then harvested.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q4_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q4_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3595,7 +3595,7 @@
     },
     "correct_answer": "b",
     "explanation": "The disc diffusion method for antibiotic susceptibility testing is applied in the Kirby-Bauer \nmethod. To perform Kirby-Bauer’s disc diffusion method, a suitable standard dilution of a broth culture of \nthe test bacterium is inoculated on the surface of a solid medium (Cation-adjusted Mueller-Hinton \nagar) as a lawn culture. After drying, various antibiotic discs are placed on its surface. Zones of \ninhibition around the disc are recorded and interpreted according to the zone diameters available \nin the tables of the Clinical and Laboratory Standards Institute (CLSI) guidelines. The results \nobtained are qualitative (resistant, sensitive, or partially sensitive). Laboratory testing for antibiotic sensitivity can be done by: • Diffusion method- Kirby-Bauer disc diffusion method, Stokes disc diffusion method • Dilution method- broth dilution method, agar dilution method • Combination of diffusion and dilution method- E–test (Epsilometer) The image below shows Kirby-Bauer disc diffusion method. 611 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q7_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q7_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3610,7 +3610,7 @@
     },
     "correct_answer": "a",
     "explanation": "Minimum inhibitory concentration (MIC) cannot be calculated using Kirby-Bauer's disk diffusion \nmethod and Stokes disk diffusion method as they are semi-quantitative methods. MIC is the lowest concentration of an antimicrobial agent that will inhibit the visible growth of a \nmicroorganism. Methods to determine MIC include: • Tube dilution method • Agar dilution method • E-test method",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q8_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q8_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3625,7 +3625,7 @@
     },
     "correct_answer": "d",
     "explanation": "Real-time polymerase chain reaction (PCR) can be used to quantify the PCR by monitoring the \namplification process while the PCR is ongoing. Types of PCR: • Reverse transcriptase PCR- The enzyme reverse transcriptase (RT) is used to synthesize a \ncomplementary copy of DNA (cDNA) from RNA and this cDNA is then used as a template for \nPCR. • Real-time PCR- This helps quantify the PCR and gives an estimate of the pathogen DNA load in \nthe specimen. It uses fluorescent dyes or specific DNA probes. It is also known as qPCR \n(Quantitative PCR) • Multiplex PCR- Primers to more than one pathogen are used simultaneously and hence multiple \nproducts are obtained. 612 \nSold by @itachibot • Nested PCR- It involves the sequential use of two primer sets. The first primer set is used for \namplification and the amplicon obtained is then used as a target sequence for second \namplification. This ensures specificity.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q9_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q9_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3640,7 +3640,7 @@
     },
     "correct_answer": "d",
     "explanation": "The hemagglutination test is not based on the principle of antibody marking. When antibodies bind to antigens on the surface of red blood cells, the resultant clumping \nreaction is referred to as hemagglutination. It is routinely performed to type red blood cells in \nABO blood-typing. The image below shows hemagglutination. In ELISA, radioimmunoassay and immunofluorescence, the antigens or antibodies are labeled or \nmarked with enzymes, fluorescent dyes, etc. Note: If no hemagglutination occurs it means the patient’s serum has anti-haemagglutinin \nantibodies that bind to hemagglutinin and prevent the clumping reaction. This hemagglutination \ninhibition reaction is a method of detection of viruses and antiviral-antibodies and is used to \nmake a diagnosis of influenza.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q10_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q10_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3670,7 +3670,7 @@
     },
     "correct_answer": "b",
     "explanation": "CLED (Cysteine lactose electrolyte-deficient) medium is preferred over MacConkey agar for the \nculture of organisms involved in urinary tract infections because it is less inhibitory and promotes \nthe growth of gram-positive bacteria (except  hemolytic streptococcus) and candida. It is used as an alternative to the combination of blood agar and MacConkey agar, for the \nprocessing of urine specimens. CLED medium is not similar to blood agar in the fact that it can prevent swarming of proteus. It is \nsimilar to MacConkey agar in that it differentiates between lactose fermenters and \nnon-fermenters.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q12_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q12_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3685,7 +3685,7 @@
     },
     "correct_answer": "c",
     "explanation": "From the given case scenario and image we can deduce that the most likely organism involved is \nEnterococcus faecalis. The image shows gram-positive cocci in chains, that are described as catalase negative. This helps \nrule out Staphylocococcus aureus and coagulase-negative staphylococcus. 614 \nSold by @itachibot Streptococcus viridans is usually sensitive to penicillin and vancomycin hence it is ruled out. The mechanism of vancomycin resistance seen in E. faecalis is the alteration of the \nD-alanyl–D-alanine chain in the cell wall.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q13_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q13_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3700,7 +3700,7 @@
     },
     "correct_answer": "b",
     "explanation": "Bacillus anthracis which causes anthrax is categorized under category A bioterrorism agent.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q14_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q14_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3715,7 +3715,7 @@
     },
     "correct_answer": "b",
     "explanation": "The above image shows a HbsAg card test kit which works on the principle \nof immunochromatography. The immunochromatographic membrane is used for antigen detection, while a nitrocellulose \nmembrane is used to absorb the antigen from a specimen. A coloured reaction appears directly on \nthe membrane with the sequential addition of conjugate followed by the substrate. In some cases, \nthe antigen is captured by a bound antibody directed against the antigen. These assays have the \nadvantage of being rapid and also frequently include a built-in internal control. 615 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q15_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q15_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3730,7 +3730,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given clinical scenario and the peripheral smear showing sheathed microfilaria with two \nnuclei at the tail tip is suggestive of infection with Brugia malayi. Acute infection may manifest as acute adenolymphangitis which is characterized by high fever, \nlymphatic inflammation (lymphangitis and lymphadenitis) and transient local edema. The \nmost commonly affected lymph nodes are inguinal nodes followed by axillary nodes which \nbecome enlarged, painful and tender. The following are the characteristic features of microfilaria of Brugia malayi: • Smaller in size compared to microfilaria of W. bancrofti. • Shows kinks and secondary curves. • Cephalic space is longer. • Carries double stylets at the anterior end. • Nuclear column appears blurred in Giemsa-stained films. • Tail tip carries 2 distinct nuclei, one terminal and the other subterminal. The below image shows the microfilaria of Brugia malayi. 596 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q16_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q16_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3745,7 +3745,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given clinical scenario with a peripheral smear showing sheathed microfilaria with a pointed \ntail free of nuclei is suggestive of Wuchereria bancrofti. The third stage filariform larva is the \ninfective form. Wuchereria bancrofti infection is usually asymptomatic. The symptoms are due to obstruction of \nlymphatics by the filarial stage of adult worms. The lymphatic vessels of the male genitalia are most commonly affected in bancroftian filariasis, \nproducing episodic funiculitis, epididymitis, and orchitis. Adenolymphangitis of the extremities is \nless common. Hydrocele is the most common sign of chronic bancroftian filariasis, followed by lymphedema, \nelephantiasis, and chyluria. The swelling involves the whole leg, the whole arm, the scrotum, the \nvulva, or the breast. DEC provocation test is used to demonstrate microfilaria during the day. The image below shows the life cycle of Wuchereria bancrofti. 597 \nSold by @itachibot The image below shows the difference between microfilaria of various filarial nematodes.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q17_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q17_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3775,7 +3775,7 @@
     },
     "correct_answer": "b",
     "explanation": "Recent fecal contamination of water is suggested by the presence of enterococcus (fecal \nstreptococci). Clostridium perfringens may be present for a long duration. If it is present in water, it suggests \nthat contamination is not recent. If Escherichia coli is detected, it is definitive proof of fecal contamination. However, it is \nnon-specific for suggesting the duration of the contamination.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q2_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q2_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3790,7 +3790,7 @@
     },
     "correct_answer": "d",
     "explanation": "Pasteurization is not used for the bacteriological examination of milk. Pasteurization is the process of applying heat, to milk, for a specified period for the purpose of \nkilling pathogenic bacteria. There are two methods: holder method and flash method. Option A: Methylene blue reduction test depends on the reduction of methylene blue by bacteria \nin milk when incubated at 37 °C in complete darkness. Option B: Resazurin test is similar to methylene blue reduction test, but the dye resazurin on \nreduction passes through a series of colour changes from blue to pink to colourless. The shade of \ncolour after incubation with milk for a particular period of time depends on the degree of \ncontamination. 608 \nSold by @itachibot Option C: Phosphatase test is used to check whether milk has been pasteurised. Positive test after \npasteurisation of milk shows contamination after pasteurisation.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q3_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q3_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3805,7 +3805,7 @@
     },
     "correct_answer": "a",
     "explanation": "The image depicts the production of monoclonal antibodies by hybridoma technology. The following are the steps involved in hybridoma technology: • Mice are immunized with an antigen. After several weeks of immunization, blood samples are \nobtained from mice for measurement of serum antibodies. • When the antibody titer is high enough, mice are commonly boosted by injecting antigen \nwithout adjuvant intraperitoneally or intravenously. Then the mice are euthanized and their \nspleens removed for in vitro hybridoma cell production. • Fusing antibody-producing spleen cells, which have a limited life span with myeloma cells \n(derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable of \nunlimited growth. • The cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HAT \nmedium) which allows only the fused cells to survive in culture. • Monoclonal antibodies are then harvested.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q4_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q4_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3820,7 +3820,7 @@
     },
     "correct_answer": "b",
     "explanation": "Aminopterin is a folate antagonist present in the HAT medium that inhibits the de novo pathway \nof nucleotide synthesis. Since myeloma cells cannot use the salvage pathway for nucleotide \nsynthesis due to the lack of HGPRTase enzyme, they cannot survive in the HAT medium. 609 \nSold by @itachibot Hybridoma technology is a method for producing large numbers of identical antibodies \n(monoclonal antibodies). Hybridomas are somatic cell hybrids produced by fusing the antibody-forming spleen cells with \nmyeloma cells. The resultant hybrid thus has both the antibody-producing ability of the B-cell and \nthe ability to multiply indefinitely of the myeloma. The following are the steps involved in hybridoma technology: • Mice are immunized with an antigen. After several weeks of immunization, blood samples are \nobtained from mice for measurement of serum antibodies. • When the antibody titer is high enough, mice are commonly boosted by injecting antigen \nwithout adjuvant intraperitoneally or intravenously. Then the mice are euthanized and \ntheir spleens removed for in vitro hybridoma cell production. • Fusing antibody-producing spleen cells, which have a limited life span with myeloma \ncells (derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable of \nunlimited growth. • The cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HAT \nmedium) which allows only the fused cells to survive in culture. • Monoclonal antibodies are then harvested.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q5_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q5_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3835,7 +3835,7 @@
     },
     "correct_answer": "c",
     "explanation": "Epsilometer (E-test) is both a diffusion and a dilution method of testing antibiotic sensitivity. It is a quantitative technique for determining the antimicrobial susceptibility (AST) and minimum \ninhibitory concentration (MIC) in µg/mL of gram-negative and gram-positive aerobic bacteria. 610 \nSold by @itachibot The antibiotic sensitivity tests are classified as follows: • Diffusion methods: Kirby–Bauer method, Stokes method • Dilution methods: Tube dilution method, Agar dilution method • Diffusion and dilution method: E–test (Epsilometer)",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q6_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q6_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3865,7 +3865,7 @@
     },
     "correct_answer": "a",
     "explanation": "Minimum inhibitory concentration (MIC) cannot be calculated using Kirby-Bauer's disk diffusion \nmethod and Stokes disk diffusion method as they are semi-quantitative methods. MIC is the lowest concentration of an antimicrobial agent that will inhibit the visible growth of a \nmicroorganism. Methods to determine MIC include: • Tube dilution method • Agar dilution method • E-test method",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q8_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q8_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3880,7 +3880,7 @@
     },
     "correct_answer": "d",
     "explanation": "Real-time polymerase chain reaction (PCR) can be used to quantify the PCR by monitoring the \namplification process while the PCR is ongoing. Types of PCR: • Reverse transcriptase PCR- The enzyme reverse transcriptase (RT) is used to synthesize a \ncomplementary copy of DNA (cDNA) from RNA and this cDNA is then used as a template for \nPCR. • Real-time PCR- This helps quantify the PCR and gives an estimate of the pathogen DNA load in \nthe specimen. It uses fluorescent dyes or specific DNA probes. It is also known as qPCR \n(Quantitative PCR) • Multiplex PCR- Primers to more than one pathogen are used simultaneously and hence multiple \nproducts are obtained. 612 \nSold by @itachibot • Nested PCR- It involves the sequential use of two primer sets. The first primer set is used for \namplification and the amplicon obtained is then used as a target sequence for second \namplification. This ensures specificity.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q9_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q9_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3910,7 +3910,7 @@
     },
     "correct_answer": "a",
     "explanation": "Pour plate culture (quantitative test) is not used as an immediate test for screening of \nUTI. However, it is considered the best diagnostic test for confirmation of UTI due it’s high \nsensitivity and specificity. The screening tests for UTI are as follows: • Wet mount examination- It is done to demonstrate pus cells in urine. 613 \nSold by @itachibot • Leukocyte esterase test- It is a rapid and cheaper method and detects leukocyte esterases \nsecreted by pus cells present in urine. • Nitrate reduction test (Griess test)- Nitrate reducing bacteria like E. coli gives a positive result. • Catalase test- E. coli and other bacteria that produce the enzyme catalase give a positive result. Quantitative Culture: • Standardized loop technique • Pour plate method",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q11_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q11_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3940,7 +3940,7 @@
     },
     "correct_answer": "c",
     "explanation": "From the given case scenario and image we can deduce that the most likely organism involved is \nEnterococcus faecalis. The image shows gram-positive cocci in chains, that are described as catalase negative. This helps \nrule out Staphylocococcus aureus and coagulase-negative staphylococcus. 614 \nSold by @itachibot Streptococcus viridans is usually sensitive to penicillin and vancomycin hence it is ruled out. The mechanism of vancomycin resistance seen in E. faecalis is the alteration of the \nD-alanyl–D-alanine chain in the cell wall.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q13_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q13_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3970,7 +3970,7 @@
     },
     "correct_answer": "b",
     "explanation": "The above image shows a HbsAg card test kit which works on the principle \nof immunochromatography. The immunochromatographic membrane is used for antigen detection, while a nitrocellulose \nmembrane is used to absorb the antigen from a specimen. A coloured reaction appears directly on \nthe membrane with the sequential addition of conjugate followed by the substrate. In some cases, \nthe antigen is captured by a bound antibody directed against the antigen. These assays have the \nadvantage of being rapid and also frequently include a built-in internal control. 615 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q15_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q15_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -3985,7 +3985,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given clinical scenario and the peripheral smear showing sheathed microfilaria with two \nnuclei at the tail tip is suggestive of infection with Brugia malayi. Acute infection may manifest as acute adenolymphangitis which is characterized by high fever, \nlymphatic inflammation (lymphangitis and lymphadenitis) and transient local edema. The \nmost commonly affected lymph nodes are inguinal nodes followed by axillary nodes which \nbecome enlarged, painful and tender. The following are the characteristic features of microfilaria of Brugia malayi: • Smaller in size compared to microfilaria of W. bancrofti. • Shows kinks and secondary curves. • Cephalic space is longer. • Carries double stylets at the anterior end. • Nuclear column appears blurred in Giemsa-stained films. • Tail tip carries 2 distinct nuclei, one terminal and the other subterminal. The below image shows the microfilaria of Brugia malayi. 596 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q16_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q16_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -4000,7 +4000,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given clinical scenario with a peripheral smear showing sheathed microfilaria with a pointed \ntail free of nuclei is suggestive of Wuchereria bancrofti. The third stage filariform larva is the \ninfective form. Wuchereria bancrofti infection is usually asymptomatic. The symptoms are due to obstruction of \nlymphatics by the filarial stage of adult worms. The lymphatic vessels of the male genitalia are most commonly affected in bancroftian filariasis, \nproducing episodic funiculitis, epididymitis, and orchitis. Adenolymphangitis of the extremities is \nless common. Hydrocele is the most common sign of chronic bancroftian filariasis, followed by lymphedema, \nelephantiasis, and chyluria. The swelling involves the whole leg, the whole arm, the scrotum, the \nvulva, or the breast. DEC provocation test is used to demonstrate microfilaria during the day. The image below shows the life cycle of Wuchereria bancrofti. 597 \nSold by @itachibot The image below shows the difference between microfilaria of various filarial nematodes.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q17_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q17_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -4015,7 +4015,7 @@
     },
     "correct_answer": "c",
     "explanation": "The clinical scenario and image showing sclerosing keratitis are suggestive of onchocerchiasis \n(river blindness). The drug of choice is ivermectin. It is caused by Onchocerca volvulus. It is also known as convoluted filaria or blinding filaria. The vector is blackfly (Simulium species) which breed in fast-flowing rivers, and therefore the \ndisease is most common along the course of rivers. Hence, it is also called river blindness. The usual presentation is formation of a subcutaneous nodule or onchocercoma. It is a firm \nnon-tender nodule arising from bony sites like scalp, elbow, ribs, and iliac crest. It is associated \nwith pruritus and rashes. 598 \nSold by @itachibot The microfilaria in the eyes cause photophobia and gradual loss of vision. The most severe \nmanifestation is sclerosing keratitis and chorioretinitis which causes blindness. It is the 2nd major \ninfective cause of blindness in the world after trachoma. Suramin and diethylcarbamazine (DEC) were used earlier but are not used nowadays. DEC \ndestroys microfilariae but usually causes Mazzotti reaction consisting of pruritus, \nrash, lymphadenopathy, fever, hypotension, and occasionally, eye damage. Note: Onchocerciasis is not endemic in India but sporadic cases have been reported from \nNorth-Eastern India.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q18_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q18_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -4030,7 +4030,7 @@
     },
     "correct_answer": "a",
     "explanation": "The given clinical scenario and the image showing Calabar swelling is suggestive of loiasis caused \nby Loa loa. Calabar swellings are temporary foci of inflammation that appear as Loa loa wanders through the \nsubcutaneous tissues. They are up to 3 cm in size and are also called fugitive swellings because \nthey disappear in a few days only to reappear elsewhere. Loa loa is transmitted by the bite of Chrysops species (deerflies). The infective form is the third \nstage microfilaria. After entry into human skin, it grows into an adult worm. The ocular manifestations occur when the worm reaches the subconjunctival tissue during its \nwanderings. They include: • Granuloma in bulbar conjunctiva • Painless edema of the eyelids • Proptosis. The image below shows Calabar swelling. The image below shows a live, adult Loa loa in the anterior chamber of the eye. 599 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q19_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q19_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -4075,7 +4075,7 @@
     },
     "correct_answer": "a",
     "explanation": "600 \nSold by @itachibot Parasite \nDefinitive host \nFirst intermediate host \nSecond intermediate ho \nst Diphyllobothri \num Humans \nCyclops \nCyclops and fish Paragonimus \nHumans \nSnail \nCrayfish and crab Fasciola \nSheep and hu \nmans Snail \nAquatic vegetations Brugia \nHumans \nMansonia mosquito \n- 601 \nSold by @itachibot Applied Microbiology",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q22_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q22_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -4135,7 +4135,7 @@
     },
     "correct_answer": "a",
     "explanation": "The image depicts the production of monoclonal antibodies by hybridoma technology. The following are the steps involved in hybridoma technology: • Mice are immunized with an antigen. After several weeks of immunization, blood samples are \nobtained from mice for measurement of serum antibodies. • When the antibody titer is high enough, mice are commonly boosted by injecting antigen \nwithout adjuvant intraperitoneally or intravenously. Then the mice are euthanized and their \nspleens removed for in vitro hybridoma cell production. • Fusing antibody-producing spleen cells, which have a limited life span with myeloma cells \n(derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable of \nunlimited growth. • The cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HAT \nmedium) which allows only the fused cells to survive in culture. • Monoclonal antibodies are then harvested.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q4_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q4_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -4270,7 +4270,7 @@
     },
     "correct_answer": "c",
     "explanation": "From the given case scenario and image we can deduce that the most likely organism involved is \nEnterococcus faecalis. The image shows gram-positive cocci in chains, that are described as catalase negative. This helps \nrule out Staphylocococcus aureus and coagulase-negative staphylococcus. 614 \nSold by @itachibot Streptococcus viridans is usually sensitive to penicillin and vancomycin hence it is ruled out. The mechanism of vancomycin resistance seen in E. faecalis is the alteration of the \nD-alanyl–D-alanine chain in the cell wall.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q13_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q13_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   },
@@ -4300,7 +4300,7 @@
     },
     "correct_answer": "b",
     "explanation": "The above image shows a HbsAg card test kit which works on the principle \nof immunochromatography. The immunochromatographic membrane is used for antigen detection, while a nitrocellulose \nmembrane is used to absorb the antigen from a specimen. A coloured reaction appears directly on \nthe membrane with the sequential addition of conjugate followed by the substrate. In some cases, \nthe antigen is captured by a bound antibody directed against the antigen. These assays have the \nadvantage of being rapid and also frequently include a built-in internal control. 615 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Spirochetes_Q15_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Spirochetes_Q15_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Spirochetes"
   }
