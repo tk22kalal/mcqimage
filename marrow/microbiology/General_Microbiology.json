@@ -10,7 +10,7 @@
     },
     "correct_answer": "b",
     "explanation": "This is a modern compound microscope, and the condenser is located below the stage. The purpose of the condenser lens is to focus the light from the illuminator onto the specimen. \nMicroscopes with a stage condenser lens render a sharper image than those with no condenser \nlens. The simple microscope was invented first by Antonie van Leeuwenhoek, the father of microscopy \nand microbiology. It uses 1 lens for magnification. The compound microscope, introduced by \nHans and Zacharias Janssen uses 2 lenses, an objective lens and an eyepiece, to provide better \nmagnification power than the simple microscope.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/General_Microbiology_Q1_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/General_Microbiology_Q1_q.jpg",
     "explanation_image": null,
     "chapter_heading": "General Microbiology"
   },
@@ -25,7 +25,7 @@
     },
     "correct_answer": "a",
     "explanation": "15 \nSold by @itachibot A painless genital ulcer with inguinal lymphadenopathy with the presence of spiral organisms on \nmicroscopy is suggestive of syphilis. It is caused by Treponema pallidum, demonstrated \nby dark-field microscopy. Dark-field microscopy images have a dark background with a refractile organism. The dark \nground microscope has an optical system that enhances the contrast of unstained bodies. It uses \nreflected light and has a higher resolving power than the light microscope. Dark-field microscopy \nis the the most specific and sensitive technique to visualize Treponema pallidum when an active \nchancre or condyloma lata is present. Other options: Option B: Phase contrast microscopy improves the contrast to delineate structures within cells. A \ndark image is formed on a light background. Option C: Fluorescent microscopy uses fluorescent dyes like auramine-rhodamine to appreciate \nMycobacterial species and malarial parasites. Option D: The electron microscope, invented by Ernst Ruska, helps in appreciating viral \nstructures. It has a very high resolving power.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/General_Microbiology_Q2_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/General_Microbiology_Q2_q.jpg",
     "explanation_image": null,
     "chapter_heading": "General Microbiology"
   },
@@ -70,7 +70,7 @@
     },
     "correct_answer": "c",
     "explanation": "Sporulation occurs in the stationary phase of the bacterial growth curve, which is marked as C in \nthe image. The bacterial growth curve is obtained when a batch of bacteria is seeded in a liquid medium and \nincubated. It consists of 4 distinct phases: • Lag phase (A) - The bacteria adapt to a new environment. They synthesize and accumulate \nenzymes and metabolic intermediates required for multiplication. Thus, there is no increase in \ncell number but cell size increases. Maximum cell size is obtained towards the end of this phase. • Log or exponential phase (B) - The bacteria start dividing and their numbers increase \nexponentially with time. Cells are smaller and stain uniformly. The growth rate is constant. • Stationary phase (C) - There is depletion of nutrients and accumulation of toxic products. Thus, \ncell division reduces and a state of equilibrium is attained, where the number of new cells formed \nequals the number that die. Growth rate is zero. Sporulation occurs during this phase. Many \nbacteria produce secondary metabolic products such as exotoxins and antibiotics. • Death phase or the phase of decline (D) - Growth rate is negative. The population decreases due \nto cell death from nutritional exhaustion, toxin accumulation and the action of autolytic enzymes. \nInvolution forms are common. 17 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/General_Microbiology_Q5_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/General_Microbiology_Q5_q.jpg",
     "explanation_image": null,
     "chapter_heading": "General Microbiology"
   },
@@ -85,7 +85,7 @@
     },
     "correct_answer": "a",
     "explanation": "The presence of teichoic acid and lipoteichoic acid with a thick peptidoglycan layer is a feature of \ngram-positive bacteria. The cell wall of bacteria provides shape and ridigity to the bacterial cell. It is composed of \npeptidoglycans. Gram negat \nive Gram positi \nve Present \nAbsent Teichoic acid, lipoteichoic aci \nd Thickness (Peptidoglycan) \nThicker \nThinner Variety of amino acids \nFew \nSeveral Absent \nPresent Aromatic and sulfur-containi \nng amino acids Absent \nPresent Lipopolysaccharides and oute \nr membrane 18 \nSold by @itachibot Other options: Option C: The cell wall of fungi consists of chitin, mannan, and polysaccharides (glucan). Option D: The cell wall of mycobacteria have mycolic acid, which is responsible for acid fastness.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/General_Microbiology_Q6_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/General_Microbiology_Q6_q.jpg",
     "explanation_image": null,
     "chapter_heading": "General Microbiology"
   },
@@ -160,7 +160,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given image shows antibiotic sensitivity testing which uses the lawn culture method. Lawn or carpet culture is the method in which a uniform surface growth of bacterium is present \non the medium. It is used for antibiotic sensitivity testing (disc method) and bacteriophage typing. \nStab culture (option D) is used for demonstration of gelatin liquefaction and oxygen requirements \nof bacterium, for maintenance of stock cultures. Streak culture (option A) is routinely used for the \nisolation of bacteria in pure culture from clinical specimens. Stroke culture (option C) is used for \nproviding pure growth of bacterium for slide agglutination and other diagnostic tests. Other \nmethods of culture include: • Liquid culture - These are preferred for inocula containing antibiotics and other inhibitory \nsubstances. • Pour plate culture - It gives an estimate of viable bacterial count in a suspension. 21 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/General_Microbiology_Q11_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/General_Microbiology_Q11_q.jpg",
     "explanation_image": null,
     "chapter_heading": "General Microbiology"
   },
@@ -175,7 +175,7 @@
     },
     "correct_answer": "c",
     "explanation": "The given image shows Quellung reaction (halo around the bacteria) and is seen in capsulated \nbacteria. Neisseria gonorrhoeae is not capsulated, therefore Quellung reaction will not be \nobserved in it. In Quellung reaction, a suspension of a capsulated bacterium is mixed with its specific \nanticapsular serum and examined under the microscope. The anticapsular antibodies bind to the \ncapsule and thus the capsule becomes very prominent and appears swollen. Capsulated organisms \ncan be remembered with the following mnemonic: Some - Streptococcus pneumoniae Killers - Klebsiella pneumoniae Have - Haemophilus influenzae Nice - Neisseria meningitidis Capsules - Cryptococcus neoformans",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/General_Microbiology_Q12_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/General_Microbiology_Q12_q.jpg",
     "explanation_image": null,
     "chapter_heading": "General Microbiology"
   },
@@ -190,7 +190,7 @@
     },
     "correct_answer": "d",
     "explanation": "The given clinical vignette of fever and hemoptysis in a labourer with the sputum smear \nshowing acid-fast bacilli is suggestive of tuberculosis. Mycobacterium tuberculosis, detected on \nsputum smear, is appreciated by Ziehl-Neelsen staining, which would includes carbol fuschin - \nacid - alcohol - methylene blue. Acid-fast bacteria (like MTB) in a stained Ziehl-Neelsen (ZN) smear appear bright red against a \nblue background. Steps involved in ZN staining are: • Place the sample on slide evenly spread it with rotational movement • Air-dry the slide and fix it by passing it over a flame • Apply carbol fuschin stain and heat to fix it. • Wash with water to remove excess stain • Decolourise with alcohol • Apply Methylene blue/Malachite green stain • Wash with water to remove excess stain • View under the microscope Kinyoun modified the classical ZN staining such that heat fixing is not required. It is called the \ncold method. It involves increasing the concentration of phenol acid and the duration of staining. \nThe slide is then washed with water and decolourized with acid alcohol. Counterstaining with \nLoeffler's methylene blue or malachite green is done for a minute and viewed under a microscope. \nAcid-fast bacteria in a stained smear appear bright red against a blue background. The image attached below summarizes the steps. 22 \nSold by @itachibot Option A: It depicts the order of Gram staining, which was discovered by Hans Christian Gram in \n1884. • Primary staining with para-rosaniline dye (crystal violet, methyl violet or gentian violet). • Application of dilute solution of iodine. • Decolorisation with an organic solvent (ethanol, acetone, aniline). • Counterstaining with the dye of contrasting colour (carbol fuchsin, safranine, neutral red). Option B: It includes the steps for performing Albert's stain which is used for detected \nCorynebacterium diphtheriae. • A heavy smear of the bacterial isolate is prepared on a glass slide and allowed to dry without \nfixing. • Albert’s stain is applied for (3-4) minutes. Then it is washed with water and Albert’s iodine is \napplied for one minute. • Wash with water and let dry with blotting paper. • Examine the slide under oil immersion. Corynebacterium diphtheriae are slender bacilli with an arrangement resembling the letters V or \nL. They have metachromatic granules at the poles of bacilli which are also called polar bodies, \nvolutin, or Babes-Ernst granules. Albert staining is useful in the demonstration of metachromatic \ngranules. The presence of metachromatic granules helps to distinguish C.diphtheriae from \ndiphtheroids which lack them. The images below show Corynebacterium diphtheriae. 23 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/General_Microbiology_Q13_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/General_Microbiology_Q13_q.jpg",
     "explanation_image": null,
     "chapter_heading": "General Microbiology"
   },
@@ -220,7 +220,7 @@
     },
     "correct_answer": "d",
     "explanation": "The given image shows MacConkey agar. Cysteine is not a constituent of MacConkey agar. MacConkey agar is a differential or indicator medium. Lactose-fermenting organisms (Eg: E. coli) \nproduce a pink color, and non-lactose fermenting organisms (Shigella sp., Salmonella sp.) do not \nchange the color. Contents of MacConkey agar include peptone, lactose, agar, neutral red and 24 \nSold by @itachibot sodium taurocholate (Mnemonic- PLANT). MacConkey agar is also a selective medium i.e. the bile \nsalts (sodium taurocholate) and dyes (neutral red) inhibit the growth of Gram-positive organisms \nand Gram-negative cocci.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/General_Microbiology_Q15_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/General_Microbiology_Q15_q.jpg",
     "explanation_image": null,
     "chapter_heading": "General Microbiology"
   },
@@ -235,7 +235,7 @@
     },
     "correct_answer": "c",
     "explanation": "The image 'A' represents alkaline peptone water, which is an enrichment medium used for Vibrio \ncholerae. The other images represent: Image B- Blood agar with P. aeruginosa colonies Image C- Loeffler's serum slope, which is used to isolate C. diphtheriae Image D- Chocolate agar with F. tularensis colonies Enrichment media suppress the growth of commensal bacteria and allow for the growth of certain \norganisms. These media are used for samples with mixed flora e.g. stool. They are always liquid \nmedia, like alkaline peptone water. Other examples include tetrathionate broth and selenite-F \nbroth for Salmonella sp. and Shigella sp. Enriched medium are those media to which additional nutrients such as blood, serum, or egg are \nadded. They're used to grow bacteria with specific nutritional requirements. Examples include \nblood agar to test the hemolytic property of bacteria, chocolate agar for isolation of H. influenzae \nand Loeffler's serum slope for isolation of C. diphtheriae.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/General_Microbiology_Q16_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/General_Microbiology_Q16_q.jpg",
     "explanation_image": null,
     "chapter_heading": "General Microbiology"
   },
@@ -250,7 +250,7 @@
     },
     "correct_answer": "b",
     "explanation": "The above image shows a swarming type of growth on the agar plate. It will not be caused by \nCorynebacterium diphtheriae. Swarming is the growth of motile bacteria in the form of a thin film on solid culture media. It is \nexhibited by the following: • Gram-positive bacilli - Clostridium tetani (option A), Bacillus cereus (option D) • Gram-negative bacilli - Proteus mirabilis (option C), Proteus vulgaris • Gram-negative halophilic bacteria- Vibrio parahaemolyticus Swarming can be inhibited by increasing the concentration of agar (6%), alcohol, sodium \nazide, boric acid, chloral hydrate, sulfonamide, and surface-active agents.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/General_Microbiology_Q17_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/General_Microbiology_Q17_q.jpg",
     "explanation_image": null,
     "chapter_heading": "General Microbiology"
   },
@@ -340,7 +340,7 @@
     },
     "correct_answer": "c",
     "explanation": "The given image shows arthroscopy being performed. Arthroscopes are sterilized using plasma \nsterilization which utilises hydrogen peroxide. In plasma sterilisation, radiofrequency energy is applied to create an electromagnetic field \nthrough which hydrogen peroxide vapours are passed. This generates plasma which contains free \nradicals of hydrogen and oxygen. Plasma denatures all organisms and is used sterilize \narthroscopes and ureteroscopes. Sterilization control is monitored by Geobacillus \nstearothermophilus and Bacillus atrophaeus. Option A: Ethylene oxide has both microbicidal and sporicidal activity. It is used for sterilisation \nheat-sensitive equipment like heart-lung machines, respirators, suture materials etc. Sterilization \ncontrol is monitored by Bacillius atrophaeus and Bacillus subtilus. Option B: Gamma rays cause breakage of DNA. It destroys spores and vegetative cells, but is not \neffective against viruses. It is referred to as cold sterilisation and is used in commercial plants to \nsterilize plastics, syringes, swabs. Sterilization control is monitored by Bacillus pumilius. Option D: Ultraviolet rays are used to sterilise biosafety cabinets, entryways, operation theatres \nand laboratories. 29 \nSold by @itachibot Components of Immune system",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/General_Microbiology_Q23_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/General_Microbiology_Q23_q.jpg",
     "explanation_image": null,
     "chapter_heading": "General Microbiology"
   }
