@@ -10,7 +10,7 @@
     },
     "correct_answer": "b",
     "explanation": "An infected wound culture showing Gram-positive cocci arranged in clusters which are \ncoagulase-positive suggest that the cultured organism is Staphylococcus aureus. 120 \nSold by @itachibot Staphylococci are Gram-positive cocci that are catalase-positive. They grow in clusters because the \ncells divide successively in three perpendicular planes, with the daughter cells remaining attached \nto one another following each successive division. Among the 45 different species of \nStaphylococcus, Staphylococcus aureus is the only one which is coagulase positive. Other options: Option A: Streptococci are catalase negative. They are Gram-positive cocci arranged in chains. Options C &amp; D: S. epidermidis and S. saprophyticus are both coagulase negative. Different bacteria with their typical arrangements are given below: • Staphylococcus: Clusters • Streptococcus: Chains • Pneumococcus: Pairs/lanceolate shaped • Micrococcus: Tetrads",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Staphylococci_Q1_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Staphylococci_Q1_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Staphylococci"
   },
@@ -25,7 +25,7 @@
     },
     "correct_answer": "a",
     "explanation": "Gram-positive cocci arranged in clusters that produce golden-yellow pigment on nutrient agar is \nsuggestive of Staphylococcus aureus. The pigment production occurs optimally at 22°C. Staphylococcus aureus is a Gram-positive coccus. On nutrient agar, its colonies are large (2-4 mm \nin diameter), convex, smooth, shiny, opaque and easily emulsifiable. The colonies appear golden \nyellow due to the presence of staphyloxanthin (carotenoid). Pigment production occurs optimally \nat 22°C and in aerobic conditions. It is enhanced when 1% glycerol or milk is incorporated in the \nmedium. On a nutrient agar slope, there is confluent growth of Staphylococcus, which appears as a \ncharacteristic oil-paint appearance. 121 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Staphylococci_Q2_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Staphylococci_Q2_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Staphylococci"
   },
@@ -160,7 +160,7 @@
     },
     "correct_answer": "c",
     "explanation": "The most common cause of botryomycosis is Staphylococcus aureus. Botryomycosis is a rare chronic bacterial granulomatous disease that usually involves the skin and \nrarely viscera. It is most commonly caused by Staphylococcus aureus but can also be caused by \nPseudomonas, Escherichia coli, Proteus, and Streptococci. Patients present with chronic, \nsuppurative, granulomatous skin lesions like nodules, abscesses and sinuses. Actinomycetoma, eumycetoma and botryomycosis are difficult to distinguish clinically but are \nreadily distinguished with microbiologic testing or biopsy. Granules of botryomycosis consist of \nloose masses of cocci. Organisms can also be seen in wound discharge or histologic specimens.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Staphylococci_Q11_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Staphylococci_Q11_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Staphylococci"
   },
@@ -205,8 +205,8 @@
     },
     "correct_answer": "d",
     "explanation": "Micrococci are arranged in pairs, tetrads or clusters of eight. Micrococci are Gram-positive cocci that are often mistaken for S. aureus. However, they are larger \nin size and mostly occur in pairs, tetrads or clusters of eight. They form smaller colonies in culture \nin comparison to S. aureus. Hugh-Leifson oxidation-fermentation test can be used \nto differentiate between micrococci (oxidative pattern) and staphylococci (fermentative pattern). Micrococci are catalase-positive and modified oxidase-positive. They are ordinarily \nnon-pathogenic but can rarely cause infections in an immunocompromised host. They are part of \nnormal bacterial flora in the body. The following image shows the tetrad arrangement of micrococci: 126 \nSold by @itachibot Different bacteria with their typical arrangements are given below: 1. Staphylococcus: Clusters 2. Streptococcus: Chains 3. Pneumococcus: Pairs/lanceolate shaped 4. Micrococcus: Tetrads 127 \nSold by @itachibot Corynebacterium, Listeria and Actinomyces",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Staphylococci_Q14_q.jpg",
-    "explanation_image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Staphylococci_Q14_exp.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Staphylococci_Q14_q.jpg",
+    "explanation_image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Staphylococci_Q14_exp.jpg",
     "chapter_heading": "Staphylococci"
   }
 ]
