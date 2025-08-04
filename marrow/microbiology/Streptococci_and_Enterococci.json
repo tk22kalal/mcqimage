@@ -25,7 +25,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given clinical vignette is strongly suggestive of necrotizing fasciitis which is most commonly \ncaused by Streptococcus pyogenes (Group A -hemolytic streptococcus). Necrotizing fasciitis is a rapidly progressive inflammatory infection of the fascia, with secondary \nnecrosis of the subcutaneous tissues. It has also been referred to as Meleney ulcer, acute dermal \ngangrene, hospital gangrene, suppurative fasciitis, and synergistic necrotizing cellulitis. The \nsource of the infection is either the skin, with organisms introduced into the tissue through \ntrauma, or the bowel flora, with organisms released during abdominal surgery. The onset of symptoms is usually quite acute and is marked by severe pain at the site of \ninvolvement, malaise, fever, chills, and a toxic appearance. The affected limb is edematous with \nthe overlying skin turning dusky with mottled erythema and the development of hemorrhagic \nbullae. This is a surgical emergency as the condition is rapidly fatal. Treatment of the condition includes: • Surgical intervention is the major therapeutic modality in cases of necrotizing fasciitis. • Antibiotics- penicillin (1-4 million U IV q4h) plus clindamycin (600-900 mg IV q8h). The following image shows surgical debridement being done for a case of necrotising fasciitis. 104 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Streptococci_and_Enterococci_Q2_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Streptococci_and_Enterococci_Q2_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Streptococci and Enterococci"
   },
@@ -40,7 +40,7 @@
     },
     "correct_answer": "b",
     "explanation": "The given case scenario o a patient with fever, sore throat, and a scarlatiniform rash is suggestive \nof scarlet fever caused by Streptococcus pyogenes. Streptolysin S is the factor responsible for \nthe zones of hemolysis seen around streptococcal colonies on blood agar. Streptococci produces two hemolysins: • Streptolysin O is called so because it is oxygen-labile. It is also heat-labile and it has specific \ncardiotoxic and leucotoxic activity. • Streptolysin S is called so because it is soluble in serum. It is also oxygen-stable hemolysin. It is \na protein but is not antigenic. The following image shows blood agar with colonies of streptococci with hemolytic zones around \nthem: 105 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Streptococci_and_Enterococci_Q3_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Streptococci_and_Enterococci_Q3_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Streptococci and Enterococci"
   },
@@ -205,7 +205,7 @@
     },
     "correct_answer": "a",
     "explanation": "The above image shows dental caries which are commonly caused by Streptococcus mutans. \nIt belongs to the viridans group/ -hemolytic streptococci. Streptococcus mutans breaks down the dietary sucrose producing acid and a tough adhesive \ndextran. The acid damages dentine while the dextrans bind together with food debris, epithelial \ncells, mucus, and bacteria to form dental plaques, leading to formation of dental caries.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Streptococci_and_Enterococci_Q14_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Streptococci_and_Enterococci_Q14_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Streptococci and Enterococci"
   },
@@ -220,7 +220,7 @@
     },
     "correct_answer": "c",
     "explanation": "The given clinical history and the X-ray showing right lower lobe consolidation is strongly \nsuggestive of lobar pneumonia, most commonly caused by Streptococcus pneumoniae (&gt;95 % \nof cases). Lobar pneumonia is an acute exudative inflammation of an entire pulmonary lobe. The below \nimage shows the histopathological picture of lobar pneumonia.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Streptococci_and_Enterococci_Q15_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Streptococci_and_Enterococci_Q15_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Streptococci and Enterococci"
   },
@@ -295,8 +295,8 @@
     },
     "correct_answer": "a",
     "explanation": "113 \nSold by @itachibot Pneumococcal polyvalent vaccine PPSV23 is indicated in splenectomised patients. There are two kinds of polyvalent pneumococcal vaccines: • Pneumococcal polysaccharide vaccine - PPSV23 • It is indicated in splenectomized patients, sickle cell disease, immunocompromised patients, and \npatients above 65 years of age. • CDC currently recommends the administration of one additional dose of PPSV23 at least 5 years \nafter the last dose. • Children younger than 2 years old should not get this vaccine since they fail to mount an \nadequate response. • Pneumococcal conjugate vaccine- • It includes PCV10 and PCV13. • It is indicated in children less than 2 years. 114 \nSold by @itachibot Staphylococci",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Streptococci_and_Enterococci_Q20_q.jpg",
-    "explanation_image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Streptococci_and_Enterococci_Q20_exp.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Streptococci_and_Enterococci_Q20_q.jpg",
+    "explanation_image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Streptococci_and_Enterococci_Q20_exp.jpg",
     "chapter_heading": "Streptococci and Enterococci"
   }
 ]
