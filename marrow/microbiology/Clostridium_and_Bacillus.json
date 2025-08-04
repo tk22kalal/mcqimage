@@ -25,7 +25,7 @@
     },
     "correct_answer": "c",
     "explanation": "154 \nSold by @itachibot The given clinical history and the image showing stormy fermentation of lactose in litmus milk is \nsuggestive of gastroenteritis caused by Clostridium perfingens type A. The fermentation of lactose by this organism leads to the formation of acid which coagulates the \ncasein in litmus milk. The clotted milk is disrupted due to vigorous gas production and this \ncharacteristic finding is obtained that is called stormy fermentation.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Clostridium_and_Bacillus_Q2_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Clostridium_and_Bacillus_Q2_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Clostridium and Bacillus"
   },
@@ -220,7 +220,7 @@
     },
     "correct_answer": "c",
     "explanation": "The given clinical scenario is suggestive of cutaneous anthrax which is caused by Bacillus \nanthracis. Human anthrax presents in one of three ways: • Cutaneous Anthrax(hide porter’s disease)- Black eschar at the base, with a very prominent \ninflammatory ring around the eschar, is referred to as a malignant pustule. • Pulmonary Anthrax(Wool sorter’s disease)- Hemorrhagic pneumonia. • Intestinal Anthrax- Hemorrhagic diarrhoea. It occurs mainly in primitive communities that eat \nthe carcasses of animals dying of anthrax. Robert Koch validated the germ theory of disease after discovering the anthrax bacillus as the \ncause of anthrax. He also discovered the causative agents of tuberculosis and cholera. Hence, he is \nknown as the Father of Bacteriology. Koch's postulates, which link specific microorganisms to specific diseases, state that the \nmicroorganism must be: • Found in abundance in diseased organisms, but not in healthy organisms. • Isolated from a diseased organism and grown in pure culture • Able to cause disease when inoculated into a healthy organism • Re-isolated from the diseased experimental host and identical to the original specific causative \nagent 161 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Clostridium_and_Bacillus_Q15_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Clostridium_and_Bacillus_Q15_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Clostridium and Bacillus"
   },
@@ -265,7 +265,7 @@
     },
     "correct_answer": "c",
     "explanation": "The given image with a circular spot of diminished growth in the culture plate from a swab from \nan ulcer depicts the gamma phage lysis assay. The most likely organism implicated is Bacillus \nAnthracis. 162 \nSold by @itachibot This test is performed by inoculating Bacillus Anthracis in sheep blood agar followed by the \napplication of gamma phage suspension over one area of the culture plate. The gamma phage \nsuspension inhibits the growth of Bacillus anthracis colonies resulting in an an area of diminished \ngrowth called a plaque.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Clostridium_and_Bacillus_Q18_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Clostridium_and_Bacillus_Q18_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Clostridium and Bacillus"
   },
@@ -310,8 +310,8 @@
     },
     "correct_answer": "b",
     "explanation": "Among the given options, lactobacilli is the one that can grow in an acidic pH. It is a gram-positive, facultatively anaerobic, non-motile, non–spore-forming bacterium. \nLactobacillus derives lactic acid from glucose, creating an acidic environment, and can grow in an \nacidic medium. It is found in the vagina as part of its normal microbiota. 163 \nSold by @itachibot Mycobacteria Tuberculosis",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Clostridium_and_Bacillus_Q21_q.jpg",
-    "explanation_image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Clostridium_and_Bacillus_Q21_exp.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Clostridium_and_Bacillus_Q21_q.jpg",
+    "explanation_image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Clostridium_and_Bacillus_Q21_exp.jpg",
     "chapter_heading": "Clostridium and Bacillus"
   }
 ]
