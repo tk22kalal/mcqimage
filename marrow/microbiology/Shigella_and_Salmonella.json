@@ -100,7 +100,7 @@
     },
     "correct_answer": "a",
     "explanation": "The given image shows Rose spots. The combination of this with fever, splenomegaly, presence of \nlongitudinal ulcers in the intestine and intestinal perforation is suggestive of enteric fever. The term enteric fever includes typhoid fever caused by Salmonella typhi and paratyphoid fever \ncaused by Salmonella paratyphi A, B and C. Enteric fever presents with step ladder pyrexia. The fever is accompanied by relative bradycardia \nwhich is known as the Faget sign. Hepatosplenomegaly is a common finding on \nexamination. Rose spots that fade on pressure appear on the skin during the second or third \nweek. Since bile is a good culture medium for the bacilli, they multiply abundantly in the gallbladder \nand are discharged continuously into the intestine. In the intestine, it causes inflammation and 213 \nSold by @itachibot necrosis leaving behind the characteristic typhoid ulcers which are oriented along the axis of the \nintestine (longitudinal ulcers). Ulceration of the bowel leads to two major \ncomplications- intestinal perforation and hemorrhage. Option B: In intestinal tuberculosis, ulcers are perpendicular to the axis of the intestine \n(transverse ulcers). Option C: Flask shaped ulcers are characteristic of amoebiasis. Option D: Hemorrhagic colitis is caused by Shigella dysenteriae and some strains of E. coli. It is \ncharacterised by bloody diarrhea with tenesmus.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Shigella_and_Salmonella_Q7_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Shigella_and_Salmonella_Q7_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Shigella and Salmonella"
   },
@@ -206,7 +206,7 @@
     "correct_answer": "c",
     "explanation": "The given case scenario is suggestive of non-typhoidal salmonellosis (NTS). The most \ncommon organism isolated in NTS from stool culture is Salmonella typhimurium. Nontyphoidal salmonellosis refers to illnesses caused by all serotypes of Salmonella except for \nSalmonella typhi, Salmonella paratyphi A, B, and C. Transmission of nontyphoidal salmonellosis \noccurs usually through the consumption of food or water contaminated with animal feces. \nTransmission may also occur through food products, especially eggs, poultry, undercooked \nground meat, and hence multiple animals act as reservoirs for non-typhoidal salmonella. Gastroenteritis is the most common clinical presentation of NTS. The illness usually lasts 4–7 \ndays, and most people recover without treatment. Culturing organisms continues to be the \nmainstay of clinical diagnostic testing for nontyphoidal salmonella infection. Approximately 90% \nof isolates are obtained from routine stool culture until 4-5 weeks after infection. 217 \nSold by @itachibot Vibrio and Campylobacterales",
     "image": null,
-    "explanation_image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Shigella_and_Salmonella_Q14_exp.jpg",
+    "explanation_image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Shigella_and_Salmonella_Q14_exp.jpg",
     "chapter_heading": "Shigella and Salmonella"
   }
 ]
