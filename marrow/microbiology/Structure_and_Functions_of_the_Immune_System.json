@@ -205,7 +205,7 @@
     },
     "correct_answer": "d",
     "explanation": "A child with colicky abdominal pain, nausea, vomiting with eosinophilia likely has a parasitic \ninfection with Ascaris lumbricoides (egg shown in the image). Parasitic infections trigger the \nrelease of IL-5. In a parasitic infection, Th2 cells are stimulated and they produce IL-4 and IL-5. IL-4 stimulates \nthe differentiation of B-cells into IgE-secreting plasma cells, while IL-5 stimulates the maturation \nand release of eosinophils from the bone marrow. The secreted IgE coats the parasite. The \nactivated eosinophils bind to the IgE-coated parasite and kill them through the release of major \nbasic protein. 67 \nSold by @itachibot",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Structure_and_Functions_of_the_Immune_System_Q14_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Structure_and_Functions_of_the_Immune_System_Q14_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Structure and Functions of the Immune System"
   },
@@ -265,7 +265,7 @@
     },
     "correct_answer": "a",
     "explanation": "The image shows wound healing. TGF- (transforming growth factor-) is responsible for wound \nhealing. TGF- is produced by B and T cells and it inhibits their proliferation. It acts as a growth factor for \nfibroblasts and promotes wound healing. It stimulates the production of collagen, fibronectin and \nproteoglycans. It also promotes class switching of B cells to IgA. IL-10 is also involved in wound \nhealing and suppression of inflammation. 68 \nSold by @itachibot Option B: IFN- inhibits viral replication, activates NK cells, and regulates the activity of \nmacrophages and T cells. Option C: TNF- is involved in tumour cytotoxicity, phagocytic cell activation, and antiviral and \nantiparasitic effects. It is an acute phase protein. Option D: IFN- has antiviral activity.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Structure_and_Functions_of_the_Immune_System_Q18_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Structure_and_Functions_of_the_Immune_System_Q18_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Structure and Functions of the Immune System"
   },
@@ -295,7 +295,7 @@
     },
     "correct_answer": "b",
     "explanation": "The transplant of an organ/tissue from a father to child is an example of an allograft. 69 \nSold by @itachibot Hypersensitivity",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Structure_and_Functions_of_the_Immune_System_Q20_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Structure_and_Functions_of_the_Immune_System_Q20_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Structure and Functions of the Immune System"
   }
