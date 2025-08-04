@@ -70,7 +70,7 @@
     },
     "correct_answer": "b",
     "explanation": "The image shows a fish tank granuloma that is caused by M. marinum. The typical clinical presentation is as a single, small violet papule or nodule confined to one \nextremity, developing 2-3 weeks after trauma. The nodule may break down to form an indolent \nulcer. M. marinarum is a natural pathogen of fish and amphibians, which spreads to humans who \ncome in contact with contaminated swimming pools or fish tanks. Other non-tuberculous mycobacteria causing disease in humans include: • M. kansasii: Disease resembles pulmonary TB • M. scrofulaceum: Cervical lymphadenitis • M. avium complex: Pulmonary, disseminated TB, especially in AIDS patients • M. fortuitum: Nail salon furunculosis M. paratuberculosis (aka Johne’s bacillus) causes Johne’s disease in cattle. It is associated with \nCrohn’s disease in humans.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Other_Mycobacteria_Q5_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Other_Mycobacteria_Q5_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Other Mycobacteria"
   },
@@ -85,7 +85,7 @@
     },
     "correct_answer": "d",
     "explanation": "The image depicts leonine facies in a patient suffering from leprosy or Hansen's disease caused by \nMycobacterium leprae. It is cultivated in nine-banded armadillos and footpads of mice. 186 \nSold by @itachibot M. leprae is a Gram-positive, weakly acid fast bacillus. Thus, 5% sulphuric acid (option A) is used \nfor decolourisation to demonstrate M.leprae's acid-fastness. On microscopy, the bacilli appear \nbound together in masses called globi, within which they are arranged in a 'cigar bundle' \nappearance. For leprosy diagnosis, specimens are collected from the nasal mucosa, skin lesions and earlobes. \nNasal smears are collected from the internal septum of the nose. Skin smears are collected from \nthe edges of the lesions (option B) rather than from the centre. Slit skin smears are taken as well. \nThe skin is pinched up tight to minimise bleeding and a cut is made with a scalpel, deep enough to \nget into the infiltrated layers. This is done over the buttocks, forehead, chin, cheek, and ears (at \nleast 5-6 different areas) (option C).",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Other_Mycobacteria_Q6_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Other_Mycobacteria_Q6_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Other Mycobacteria"
   },
@@ -160,7 +160,7 @@
     },
     "correct_answer": "c",
     "explanation": "Mitsuda's reaction is read in the 3rd week, i.e., on the 21st day or 20 days after the day of \ninjection. Lepromin test is a skin test for delayed hypersensitivity to lepra antigens. It is the only method for \nstudying immunity in leprosy. A bacillary suspension of inactivated M. leprae is injected just 188 \nSold by @itachibot under the skin. The first reaction to occur is the early reaction of Fernandez, which consists of erythema and \ninduration developing in 24-48 hours. It usually remains for 3-5 days; it is usually poorly defined \nand carries less significance. The second and more meaningful result is the late reaction of \nMitsuda, starting at 1-2 weeks (7-10 days), reaching a peak in three or four weeks, and gradually \nsubsiding over the next few weeks. On the 21st day, if there is a nodule more than 5 mm in \ndiameter, the reaction is said to be positive. Note: The 21st day is 20 days after the day of injection which is counted as the 1st day.",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Other_Mycobacteria_Q11_q.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Other_Mycobacteria_Q11_q.jpg",
     "explanation_image": null,
     "chapter_heading": "Other Mycobacteria"
   },
@@ -175,8 +175,8 @@
     },
     "correct_answer": "d",
     "explanation": "Mycobacterium indicus pranii is the basis for the development of a leprosy vaccine. The leprosy vaccine species was originally called Mycobacterium W (M.w) but was later renamed \nMycobacterium indicus pranii. The vaccine is administered via intradermal route. The dose is 0.1 \nml. It is divided into two equal doses and given on both arms. Booster doses will be given to maintain the immunity level. These are given only in one arm. 189 \nSold by @itachibot Escherichia, Proteus and Klebsiella",
-    "image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Other_Mycobacteria_Q12_q.jpg",
-    "explanation_image": "https://github.com/tk22kalal/mcqimage/blob/main/mxmicrobiology/Other_Mycobacteria_Q12_exp.jpg",
+    "image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Other_Mycobacteria_Q12_q.jpg",
+    "explanation_image": "https://raw.githubusercontent.com/tk22kalal/mcqimage/main/mxmicrobiology/Other_Mycobacteria_Q12_exp.jpg",
     "chapter_heading": "Other Mycobacteria"
   }
 ]
